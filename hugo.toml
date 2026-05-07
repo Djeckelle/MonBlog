@@ -1,0 +1,58 @@
+baseURL = "https://laurence-poussard.com/"
+languageCode = "fr-FR"
+defaultContentLanguage = "fr"
+title = "Laurence Poussard"
+theme = "PaperMod"
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+
+[params]
+  env = "production"
+  description = "Architecture d'entreprise, IA, gouvernance des SI — analyses et manifestes."
+  author = "Laurence Poussard"
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+  TocOpen = false
+
+  [params.homeInfoParams]
+    Title = "Laurence Poussard"
+    Content = "Architecte d'entreprise. Pratique de Continuous Architecture. J'écris sur ce que les SI, l'IA et les organisations peuvent devenir quand on cesse de traiter la complexité comme une fatalité."
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/laurence-poussard-76115162/"
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:laurence.poussard63@gmail.com"
+
+[menu]
+  [[menu.main]]
+    identifier = "articles"
+    name = "Articles"
+    url = "/articles/"
+    weight = 10
+  [[menu.main]]
+    identifier = "manifeste"
+    name = "Manifeste"
+    url = "/manifeste/"
+    weight = 20
+  [[menu.main]]
+    identifier = "ressources"
+    name = "Ressources"
+    url = "/ressources/"
+    weight = 30
+  [[menu.main]]
+    identifier = "about"
+    name = "À propos"
+    url = "/about/"
+    weight = 40
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
