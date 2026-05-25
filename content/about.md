@@ -16,4 +16,4 @@ J'ai publié en 2025 *[Nous venons du chaos, l'IA de la logique](https://amzn.eu
 J'écris ici pour des décideurs, des architectes, des managers et des professionnels qui sentent que les discours dominants ne suffisent plus.
 
 **Pour me contacter** : [laurence.poussard63@gmail.com](mailto:laurence.poussard63@gmail.com)
-**LinkedIn** : [ton-profil](https://www.linkedin.com/in/laurence-poussard-76115162/)
+**LinkedIn** : [Laurence Poussard](https://www.linkedin.com/in/laurence-poussard-76115162/)
