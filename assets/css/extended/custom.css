@@ -1,0 +1,134 @@
+/* ============================
+   custom.css — laurence-poussard.com
+   Palette : Deep Violet Editorial
+   ============================ */
+
+:root {
+    /* Palette principale */
+    --primary: rgb(76, 42, 133);       /* Violet profond — titres, liens */
+    --secondary: rgb(155, 114, 207);   /* Violet doux — hover, accents */
+    --tertiary: rgb(212, 175, 55);     /* Or pâle — détails, citations */
+    
+    /* Texte et fonds */
+    --content: rgb(42, 42, 46);        /* Anthracite — corps du texte */
+    --theme: rgb(250, 250, 247);       /* Fond blanc cassé chaleureux */
+    --entry: rgb(255, 255, 255);       /* Fond des cartes article */
+    
+    /* Éléments fonctionnels */
+    --code-bg: rgb(245, 243, 250);     /* Fond du code, violet très pâle */
+    --border: rgb(230, 225, 240);      /* Bordures discrètes, teintées violet */
+}
+
+/* Mode sombre — inversion intelligente */
+.dark {
+    --primary: rgb(180, 150, 230);     /* Violet clair en mode sombre */
+    --secondary: rgb(212, 175, 55);    /* L'or prend le relais en hover */
+    --tertiary: rgb(155, 114, 207);
+    
+    --content: rgb(220, 218, 230);
+    --theme: rgb(25, 22, 35);          /* Noir-violet très profond */
+    --entry: rgb(35, 30, 50);
+    
+    --code-bg: rgb(40, 35, 55);
+    --border: rgb(60, 50, 80);
+}
+
+/* ============================
+   Typographie éditoriale
+   ============================ */
+
+body {
+    font-family: 'Georgia', 'Cambria', 'Times New Roman', serif;
+    font-size: 18px;
+    line-height: 1.7;
+    color: var(--content);
+}
+
+h1, h2, h3, h4, h5, h6,
+.post-title,
+.entry-header h2,
+.first-entry .entry-header h1 {
+    font-family: 'Georgia', 'Cambria', serif;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+    color: var(--primary);
+}
+
+.post-content {
+    font-family: 'Georgia', 'Cambria', serif;
+}
+
+/* ============================
+   Liens : présence sobre
+   ============================ */
+
+a {
+    color: var(--primary);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 1px;
+    transition: color 0.2s ease;
+}
+
+a:hover {
+    color: var(--secondary);
+}
+
+/* Liens dans les articles : encore plus présents */
+.post-content a {
+    color: var(--primary);
+    font-weight: 500;
+}
+
+/* ============================
+   Détails éditoriaux
+   ============================ */
+
+/* Citations en violet, plus présentes */
+blockquote {
+    border-left: 3px solid var(--tertiary);
+    padding-left: 1.2em;
+    font-style: italic;
+    color: var(--content);
+    background: transparent;
+}
+
+/* Code inline : fond doux teinté */
+code {
+    background: var(--code-bg);
+    color: var(--primary);
+    padding: 0.1em 0.3em;
+    border-radius: 3px;
+    font-size: 0.92em;
+}
+
+/* Titres d'article dans la liste : violet, sérieux */
+.entry-header h2 {
+    color: var(--primary);
+}
+
+/* Métadonnées (date, temps de lecture) : discret */
+.entry-footer,
+.post-meta {
+    color: rgb(120, 115, 130);
+}
+
+/* ============================
+   Navigation : sobre et présente
+   ============================ */
+
+#menu a {
+    text-decoration: none;
+    color: var(--content);
+}
+
+#menu a:hover {
+    color: var(--primary);
+}
+
+/* Logo du site */
+.logo a {
+    color: var(--primary);
+    font-weight: 700;
+    text-decoration: none;
+}
