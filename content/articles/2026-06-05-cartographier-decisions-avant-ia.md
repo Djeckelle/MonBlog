@@ -115,6 +115,6 @@ C'est le paradoxe que l'Architecture Continue cherche précisément à résoudre
 
 ---
 
-*Vos réactions, désaccords, compléments d'information sont bienvenus. Écrivez-moi à [contact@laurence-poussard.com](mailto:contact@laurence-poussard.com).*
+*Vos réactions, désaccords, compléments d'information sont bienvenus. Écrivez-moi : [contact](mailto:laurence.poussard63@gmail.com).*
 
 #DecisionDay2026 #GouvernanceIA #ArchitectureEntreprise #ArchitectureContinue #TransformationIA
