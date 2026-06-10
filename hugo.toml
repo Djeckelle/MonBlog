@@ -61,8 +61,8 @@ buildFuture = false
 
 [params.giscus]
 repo = "Djeckelle/MonBlog"
-repoID = "..."
+repoID = "R_kgDOSXBQ6g"
 category = "General"
-categoryID = "..."
+categoryID = "DIC_kwDOSXBQ6s4C-3zj"
 mapping = "pathname"
 theme = "light"
