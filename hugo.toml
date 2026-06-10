@@ -21,6 +21,7 @@ buildFuture = false
   TocOpen = false
   ShowShareButtons = true
   ShareButtons = ["linkedin", "whatsapp"]
+  comments = true
 
   [params.homeInfoParams]
     Title = "Laurence Poussard"
@@ -57,3 +58,11 @@ buildFuture = false
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+[params.giscus]
+repo = "Djeckelle/MonBlog"
+repoID = "..."
+category = "General"
+categoryID = "..."
+mapping = "pathname"
+theme = "light"
