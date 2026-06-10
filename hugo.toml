@@ -23,16 +23,30 @@ buildFuture = false
   ShareButtons = ["linkedin", "whatsapp"]
   comments = true
 
-  [params.homeInfoParams]
-    Title = "Laurence Poussard"
-    Content = "Architecte d'entreprise. Experte de la Continuous Architecture. J'écris sur ce que les SI, l'IA et les organisations peuvent devenir quand on cesse de traiter la complexité comme une fatalité."
+[params.giscus]
+  repo = "Djeckelle/MonBlog"
+  repoID = "R_kgDOSXBQ6g"
+  category = "General"
+  categoryID = "DIC_kwDOSXBQ6s4C-3zj"
+  mapping = "pathname"
+  strict = "0"
+  reactionsEnabled = "1"
+  emitMetadata = "0"
+  inputPosition = "top"
+  theme = "preferred_color_scheme"
+  lang = "fr"
+  
+[params.homeInfoParams]
+ Title = "Laurence Poussard"
+  Content = "Architecte d'entreprise. Experte de la Continuous Architecture. J'écris sur ce que les SI, l'IA et les organisations peuvent devenir quand on cesse de traiter la complexité comme une fatalité."
 
-  [[params.socialIcons]]
-    name = "linkedin"
-    url = "https://www.linkedin.com/in/laurence-poussard-76115162/"
-  [[params.socialIcons]]
-    name = "email"
-    url = "mailto:laurence.poussard63@gmail.com"
+[[params.socialIcons]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/laurence-poussard-76115162/"
+ 
+[[params.socialIcons]]
+ name = "email"
+ url = "mailto:laurence.poussard63@gmail.com"
 
 [menu]
   [[menu.main]]
@@ -58,11 +72,3 @@ buildFuture = false
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
-
-[params.giscus]
-repo = "Djeckelle/MonBlog"
-repoID = "..."
-category = "General"
-categoryID = "..."
-mapping = "pathname"
-theme = "light"
