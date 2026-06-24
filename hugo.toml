@@ -1,74 +1,124 @@
 baseURL = "https://laurence-poussard.com/"
-languageCode = "fr-FR"
-defaultContentLanguage = "fr"
-title = "Laurence Poussard"
 theme = "PaperMod"
-
+defaultContentLanguage = "fr"
+defaultContentLanguageInSubdir = false
 enableRobotsTXT = true
 buildDrafts = false
 buildFuture = false
 
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+# ══════════════════════════════════════════
+# PARAMÈTRES GLOBAUX (partagés entre les langues)
+# ══════════════════════════════════════════
+
 [params]
-  env = "production"
-  description = "Architecture d'entreprise, IA, gouvernance des SI — analyses et manifestes."
   author = "Laurence Poussard"
   defaultTheme = "auto"
   ShowReadingTime = true
+  ShowShareButtons = true
+  ShareButtons = ["linkedin", "whatsapp"]
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
   ShowToc = true
   TocOpen = false
-  ShowShareButtons = true
-  ShareButtons = ["linkedin", "whatsapp"]
+  ShowLanguageSwitcher = true
   comments = true
 
-[params.giscus]
-  repo = "Djeckelle/MonBlog"
-  repoID = "R_kgDOSXBQ6g"
-  category = "General"
-  categoryID = "DIC_kwDOSXBQ6s4C-3zj"
-  mapping = "pathname"
-  strict = "0"
-  reactionsEnabled = "1"
-  emitMetadata = "0"
-  inputPosition = "top"
-  theme = "preferred_color_scheme"
-  lang = "fr"
-  
-[params.homeInfoParams]
- Title = "Laurence Poussard"
-  Content = "Architecte d'entreprise. Experte de la Continuous Architecture. J'écris sur ce que les SI, l'IA et les organisations peuvent devenir quand on cesse de traiter la complexité comme une fatalité."
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/laurence-poussard-76115162/"
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:laurence.poussard63@gmail.com"
 
-[[params.socialIcons]]
-  name = "linkedin"
-  url = "https://www.linkedin.com/in/laurence-poussard-76115162/"
- 
-[[params.socialIcons]]
- name = "email"
- url = "mailto:laurence.poussard63@gmail.com"
+  [params.giscus]
+    repo = "Djeckelle/MonBlog"
+    repoID = "R_kgDOSXBQ6g"
+    category = "General"
+    categoryID = "DIC_kwDOSXBQ6s4C-3zj"
+    mapping = "pathname"
+    strict = "0"
+    reactionsEnabled = "1"
+    emitMetadata = "0"
+    inputPosition = "top"
+    theme = "preferred_color_scheme"
+    lang = "fr"
 
-[menu]
-  [[menu.main]]
+# ══════════════════════════════════════════
+# FRANÇAIS (langue par défaut)
+# ══════════════════════════════════════════
+
+[languages.fr]
+  languageCode = "fr-FR"
+  languageName = "Français"
+  weight = 1
+  title = "Laurence Poussard"
+
+  [languages.fr.params]
+    description = "Architecture d'entreprise, IA, gouvernance des SI — analyses et manifestes."
+
+  [languages.fr.params.homeInfoParams]
+    Title = "Laurence Poussard"
+    Content = "Architecte d'entreprise. Experte de la Continuous Architecture. J'écris sur ce que les SI, l'IA et les organisations peuvent devenir quand on cesse de traiter la complexité comme une fatalité."
+
+  [[languages.fr.menu.main]]
     identifier = "articles"
     name = "Articles"
     url = "/articles/"
     weight = 10
-  [[menu.main]]
+  [[languages.fr.menu.main]]
     identifier = "manifeste"
     name = "Manifeste"
     url = "/manifeste/"
     weight = 20
-  [[menu.main]]
+  [[languages.fr.menu.main]]
     identifier = "ressources"
     name = "Ressources"
     url = "/ressources/"
     weight = 30
-  [[menu.main]]
+  [[languages.fr.menu.main]]
     identifier = "about"
     name = "À propos"
     url = "/about/"
     weight = 40
 
-[outputs]
-  home = ["HTML", "RSS", "JSON"] 
+# ══════════════════════════════════════════
+# ANGLAIS
+# ══════════════════════════════════════════
+
+[languages.en]
+  languageCode = "en-US"
+  languageName = "English"
+  weight = 2
+  title = "Laurence Poussard"
+
+  [languages.en.params]
+    description = "Enterprise architecture, AI, IS governance — analysis and manifestos."
+
+  [languages.en.params.homeInfoParams]
+    Title = "Laurence Poussard"
+    Content = "Enterprise architect. Continuous Architecture practitioner. I write about what information systems, AI and organizations can become when we stop treating complexity as fate."
+
+  [[languages.en.menu.main]]
+    identifier = "articles"
+    name = "Articles"
+    url = "/en/articles/"
+    weight = 10
+  [[languages.en.menu.main]]
+    identifier = "manifesto"
+    name = "Manifesto"
+    url = "/en/manifesto/"
+    weight = 20
+  [[languages.en.menu.main]]
+    identifier = "resources"
+    name = "Resources"
+    url = "/en/resources/"
+    weight = 30
+  [[languages.en.menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/en/about/"
+    weight = 40
