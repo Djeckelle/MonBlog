@@ -1,6 +1,6 @@
 ---
 title: "La valeur est aux interfaces, pas dans la tech"
-date: 2026-06-05
+date: 2026-06-24
 description: "Série Decision Day 2026 (3/3). Pourquoi la loi de Conway explique mieux l'échec des programmes IA que n'importe quel benchmark technique — et ce que cela change pour le rôle de l'architecte d'entreprise."
 tags: ["IA", "architecture", "loi de Conway", "gouvernance", "Decision Day 2026", "Continuous Architecture", "architecte stratège"]
 draft: false
