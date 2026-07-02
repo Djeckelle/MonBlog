@@ -1,6 +1,8 @@
 ---
 title: "The 6 Habits of an Effective Information System"
 description: "A manifesto for an IT organization that serves the business, the collective, and the long term."
+url: "/en/manifesto/"
+draft: false
 showtoc: true
 tocopen: true
 ---
