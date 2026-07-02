@@ -18,7 +18,7 @@ Je suis formée aux pratiques de Continuous Architecture et m'inscris dans la li
 J'ai publié en 2025 *[Nous venons du chaos, l'IA de la logique](https://amzn.eu/d/035y3iq2)
  Un second ouvrage est en préparation, adressé aux managers, leaders, professionnels en repositionnement et experts techniques en évolution.
 
-##Domaines d’expertise
+## Domaines d’expertise
 
 - Architecture d’entreprise
 - Architecture continue
@@ -28,7 +28,7 @@ J'ai publié en 2025 *[Nous venons du chaos, l'IA de la logique](https://amzn.eu
 - Modernisation des systèmes d’information
 - Leadership et prise de décision
 
-##Pourquoi ce blog ?
+## Pourquoi ce blog ?
 La technologie n’est plus seulement une question technique. Elle façonne les organisations, influence les sociétés, transforme les métiers et impacte de plus en plus l’équilibre géopolitique.
 
 À travers ce blog, je partage mes réflexions, analyses et conseils pratiques sur l’architecture, l’intelligence artificielle, la transformation numérique et les décisions stratégiques que les organisations doivent prendre dans un monde de plus en plus incertain.
