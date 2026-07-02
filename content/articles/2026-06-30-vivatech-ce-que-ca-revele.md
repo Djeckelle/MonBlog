@@ -4,6 +4,13 @@ date: 2026-06-30
 description: "Dix jours après VivaTech 2026, hors du bruit des posts à chaud : ce que le plus grand théâtre technologique d'Europe montre — et surtout ce qu'il ne montre pas. Une lecture architecturale de l'émerveillement."
 tags: ["IA", "VivaTech", "souveraineté", "gouvernance", "architecture", "accès", "Europe"]
 draft: false
+
+cover:
+    image: "/images/articles/vivatech-2026.jpg"
+    alt: "Vivatech - 10e edition - 2026"
+    caption: "Vivatech - 17-20 juin, Porte de Versailles, 10e édition"
+    relative: false
+    hidden: false
 ---
 
 Oui, VivaTech c'était il y a dix jours.
