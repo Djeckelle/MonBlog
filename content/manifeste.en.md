@@ -106,7 +106,7 @@ What we gain collectively: time, energy, trust, clarity, and incidentally budget
 ## Manifesto Poster
 
 <figure>
-  <img src="\images\Resources\Manifesto-Efficient IT.png"" 
+  <img src="\images\resources\Manifesto-Efficient IT.png"" 
        alt="Manifesto Poster">
   <figcaption> The 6 Habits of an Effective Information System </figcaption>
 </figure>
