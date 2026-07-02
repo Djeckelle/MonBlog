@@ -117,9 +117,9 @@ buildFuture = false
     url = "/en/manifesto/"
     weight = 20
   [[languages.en.menu.main]]
-    identifier = "resources"
+    identifier = "ressources"
     name = "Resources"
-    url = "/en/resources/"
+    url = "/en/ressources/"
     weight = 30
   [[languages.en.menu.main]]
     identifier = "about"

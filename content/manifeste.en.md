@@ -103,6 +103,18 @@ What we gain collectively: time, energy, trust, clarity, and incidentally budget
 
 ---
 
+## Manifesto Poster
+
+<figure>
+  <img src="\images\Resources\Manifesto-Efficient IT.png"" 
+       alt="Manifesto Poster">
+  <figcaption> The 6 Habits of an Effective Information System </figcaption>
+</figure>
+
+[Download the Manifesto (PDF)](/pdfs/manifeste-si-efficace-en.pdf)
+
+---
+
 ## An Invitation
 
 This manifesto is not a rulebook. It is an open text.

@@ -99,6 +99,18 @@ Ce qu'on récupère collectivement : du temps, de l'énergie, de la confiance, d
 
 ---
 
+## Poster du Manifeste
+
+<figure>
+  <img src="\images\Resources\Manifeste-SI-Efficace.png" 
+       alt="Poster du Manifteste">
+  <figcaption> Les 6 Habitudes d'un Si efficace </figcaption>
+</figure>
+
+[Télécharger le manifeste (PDF)](/pdfs/manifeste-si-efficace.pdf)
+
+---
+
 ## Une invitation
 
 Ce manifeste n'est pas un règlement. C'est un texte ouvert.
