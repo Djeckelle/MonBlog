@@ -8,7 +8,7 @@ url: "/en/resources/"
 The manifesto *The 6 Habits of Effective Enterprise IT* is available as a PDF and may be freely shared and distributed.
 
 <figure>
-  <img src="\images\Resources\Manifesto-Efficient IT.png"" 
+  <img src="\images\resources\Manifesto-Efficient IT.png"" 
        alt="Manifesto Poster">
   <figcaption> The 6 Habits of an Effective Information System </figcaption>
 </figure>

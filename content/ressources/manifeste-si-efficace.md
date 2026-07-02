@@ -7,7 +7,7 @@ description: "Le manifeste en version PDF, prête à diffuser et signer."
 Le manifeste *Les 6 habitudes d'un SI efficace* en version PDF, libre de circulation.
 
 <figure>
-  <img src="\images\Resources\Manifeste-SI-Efficace.png" 
+  <img src="\images\resources\Manifeste-SI-Efficace.png" 
        alt="Poster du Manifteste">
   <figcaption>Les 6 habitudes d'un SI efficace.</figcaption>
 </figure>
