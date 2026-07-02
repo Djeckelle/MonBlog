@@ -84,6 +84,11 @@ buildFuture = false
     url = "/ressources/"
     weight = 30
   [[languages.fr.menu.main]]
+  identifier = "bibliotheque"
+  name = "Bibliothèque"
+  url = "/bibliotheque/"
+  weight = 35
+  [[languages.fr.menu.main]]
     identifier = "about"
     name = "À propos"
     url = "/about/"
@@ -121,6 +126,11 @@ buildFuture = false
     name = "Resources"
     url = "/en/ressources/"
     weight = 30
+  [[languages.en.menu.main]]
+  identifier = "library"
+  name = "Library"
+  url = "/en/library/"
+  weight = 35
   [[languages.en.menu.main]]
     identifier = "about"
     name = "About"
