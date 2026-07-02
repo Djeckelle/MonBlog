@@ -1,135 +1,131 @@
 ---
-title: "Quand l'IA joue à se faire peur — et à faire croire"
-date: 2026-06-02
-description: "Le doomerisme IA a la structure d'un mouvement religieux — mais ce qu'il révèle vraiment, c'est une bataille de gouvernance et de souveraineté. Réaction à l'article de Nirit Weiss-Blatt sur AI Panic."
-tags: ["IA", "gouvernance", "souveraineté", "architecture", "débat public"]
+title: "When AI plays at scaring itself — and at making us believe"
+date: 2026-06-03
+description: "AI doomerism has the structure of a religious movement — but what it really reveals is a battle over governance and sovereignty. A response to Nirit Weiss-Blatt's piece on AI Panic."
+tags: ["AI", "governance", "sovereignty", "architecture", "public debate"]
 draft: false
 ---
 
-*En réaction à l'article de Nirit Weiss-Blatt, « First They Built a Secular Apocalypse Belief System. Now They Want Religious Authority. »*
+*In response to Nirit Weiss-Blatt's article, "First They Built a Secular Apocalypse Belief System. Now They Want Religious Authority."*
 
-Il y a des articles qui font mouche, non pas parce qu'ils disent tout, mais parce qu'ils nomment quelque chose que tout le monde sentait sans pouvoir l'articuler. Celui de Nirit Weiss-Blatt, publié le 2 juin 2026 sur *AI Panic*, est de ceux-là.
+Some articles hit home — not because they say everything, but because they name something everyone sensed without being able to articulate it. Nirit Weiss-Blatt's piece, published on June 2, 2026 on *AI Panic*, is one of them.
 
-Son propos est simple et percutant : l'AI doomerism — ce courant qui prédit l'extinction humaine par l'IA — a les attributs structurels d'un mouvement religieux. Dieu remplacé par la superintelligence, l'enfer remplacé par l'extinction, les prophètes remplacés par des probabilistes rationalistes convaincus d'avoir compris ce que les masses ignorent. Et maintenant, cerise sur le dogme, ce mouvement né dans les milieux athées va chercher sa légitimité morale… auprès du Vatican.
+Her argument is simple and sharp: AI doomerism — the current that predicts human extinction by AI — has the structural attributes of a religious movement. God replaced by superintelligence, hell replaced by extinction, the prophets replaced by rationalist probabilists convinced they've grasped what the masses ignore. And now, the cherry on the dogma: this movement, born in atheist circles, goes looking for its moral legitimacy… at the Vatican.
 
-Le paradoxe est savoureux. Mais il cache quelque chose de bien plus intéressant.
+The paradox is delicious. But it conceals something far more interesting.
 
-## Le vrai problème n'est pas le discours. C'est la capture.
+## The real problem isn't the discourse. It's the capture.
 
-Weiss-Blatt a raison de dénoncer la structure rhétorique du doomerisme. Mais en se concentrant sur ce qui est dit, elle esquive la question de qui le dit, pourquoi, et surtout à qui cela profite.
+Weiss-Blatt is right to expose the rhetorical structure of doomerism. But by focusing on what is said, she sidesteps the question of who says it, why, and above all who benefits.
 
-Les mêmes acteurs qui brandissent le risque existentiel de l'IA sont précisément ceux qui construisent cette IA à marche forcée. Anthropic, valorisé à **965 milliards de dollars** après sa série H de 65 milliards bouclée le 28 mai 2026, construit des modèles de langage tout en se voyant publiquement décrit comme *"midwifing a deity"* — pour reprendre les mots de Bill Gurley sur l'*All-In* podcast. OpenAI, valorisé à 852 milliards de dollars en avril 2026, a créé une structure capitalistique d'exception en invoquant l'urgence de "sécuriser" l'IA avant les mauvais acteurs. Le mouvement de l'altruisme efficace a levé des centaines de millions de dollars en agitant la peur de la catastrophe.
+The very actors who brandish AI's existential risk are precisely the ones building that AI at forced march. Anthropic — valued at **965 billion dollars** after its Series H of 65 billion closed on May 28, 2026 — builds language models while being publicly described as *"midwifing a deity,"* to borrow Bill Gurley's words on the *All-In* podcast. OpenAI, valued at 852 billion dollars in April 2026, created an exceptional capital structure by invoking the urgency of "securing" AI before bad actors do. The effective altruism movement raised hundreds of millions of dollars by stoking the fear of catastrophe.
 
-C'est un mécanisme que je connais bien dans mes missions d'architecture d'entreprise : quand un acteur est à la fois pompier et pyromane, il faut regarder de quel côté souffle le vent. Ici, le vent souffle vers la concentration du pouvoir décisionnel sur l'IA dans les mains de quelques acteurs privés, en contournant toute instance démocratique légitime.
+It's a mechanism I know well from my enterprise architecture engagements: when an actor is both firefighter and arsonist, you have to watch which way the wind is blowing. Here, the wind blows toward the concentration of decision-making power over AI in the hands of a few private actors, bypassing any legitimate democratic body.
 
-Ce n'est pas une théorie du complot. C'est une lecture structurelle. Et elle change tout.
+This isn't a conspiracy theory. It's a structural reading. And it changes everything.
 
-## Le chaos comme argument d'autorité
+## Chaos as an argument from authority
 
-Dans mon livre *Nous venons du chaos, l'IA de la logique*, j'ai voulu remettre les pendules à l'heure sur un point précis : l'IA n'est ni le diable ni le messie. Elle est un levier d'influence massive — économique, politique, cognitive — entre les mains de ceux qui la construisent, la déploient et en fixent les règles.
+In my book *Nous venons du chaos, l'IA de la logique* ("We Come From Chaos, AI From Logic"), I wanted to set the record straight on one precise point: AI is neither the devil nor the messiah. It is a lever of massive influence — economic, political, cognitive — in the hands of those who build it, deploy it, and set its rules.
 
-Le discours apocalyptique et le discours messianique ont en commun une même fonction : ils disqualifient l'intelligence ordinaire. Ils disent, en substance : *ce sujet est trop complexe, trop dangereux, trop fondamental pour être laissé aux non-initiés*. Et donc, implicitement : *laissez-nous décider*.
+Apocalyptic discourse and messianic discourse share the same function: they disqualify ordinary intelligence. They say, in substance: *this subject is too complex, too dangerous, too fundamental to be left to the uninitiated*. And therefore, implicitly: *let us decide*.
 
-C'est l'argument d'autorité par le chaos. Et il est extrêmement efficace, parce qu'il capte à la fois les anxieux et les enthousiastes, les croyants et les sceptiques, les décideurs et les citoyens ordinaires — chacun avec sa version du même *story arc* : l'IA dépasse l'humain, l'humain ne peut pas comprendre, des gardiens sont nécessaires.
+This is the argument from authority through chaos. And it is extraordinarily effective, because it captures the anxious and the enthusiastic, believers and skeptics, decision-makers and ordinary citizens alike — each with their version of the same story arc: AI surpasses the human, the human cannot understand, guardians are needed.
 
-J'ai passé vingt ans à décrypter des SI complexes pour des organisations qui avaient peur de leur propre patrimoine applicatif. La mécanique est identique : le chaos réel ou fabriqué crée une dépendance aux experts qui prétendent le maîtriser.
+I spent twenty years decoding complex information systems for organizations that were afraid of their own application estate. The mechanism is identical: chaos, real or manufactured, creates a dependence on the experts who claim to master it.
 
-## Ce que Weiss-Blatt ne dit pas — et que je me dois de dire
+## What Weiss-Blatt doesn't say — and what I feel compelled to
 
-Il y a un détail dans son article que je n'aurais pas laissé en note de bas de page.
+There is a detail in her article I wouldn't have left in a footnote.
 
-Christopher Olah, co-fondateur canadien d'Anthropic et dirigeant de son équipe d'interprétabilité, a représenté la société au Vatican le **25 mai 2026** lors de la présentation de l'encyclique de Léon XIV sur l'intelligence artificielle, *Magnifica humanitas: On safeguarding the human person in the time of artificial Intelligence*. Athée déclaré, Olah s'est, selon *The Atlantic*, comparé à un prêtre — au sens de quelqu'un qui aide le modèle Claude *"à être une bonne personne, en un sens"*.
+Christopher Olah, Canadian co-founder of Anthropic and head of its interpretability team, represented the company at the Vatican on **May 25, 2026**, at the presentation of Pope Leo XIV's encyclical on artificial intelligence, *Magnifica humanitas: On safeguarding the human person in the time of artificial Intelligence*. A declared atheist, Olah — according to *The Atlantic* — compared himself to a priest, in the sense of someone who helps the model Claude *"be a good person, in some sense."*
 
-Arrêtons-nous là une seconde.
+Let's stop there for a moment.
 
-Qui lui a demandé de définir ce qu'est "une bonne personne" ? Qui l'a mandaté pour encoder des valeurs dans un système qui sera utilisé par des millions d'individus, dans des dizaines de contextes culturels, réglementaires, politiques radicalement différents ? Qui valide que ses valeurs — celles d'un ingénieur californien de 33 ans issu de la Silicon Valley — sont universellement souhaitables ?
+Who asked him to define what "a good person" is? Who mandated him to encode values into a system that will be used by millions of individuals, across dozens of radically different cultural, regulatory, and political contexts? Who validates that his values — those of a 33-year-old Californian engineer from Silicon Valley — are universally desirable?
 
-La vraie question de gouvernance n'est pas : *l'IA va-t-elle détruire l'humanité ?*
+The real governance question is not: *will AI destroy humanity?*
 
-C'est : **qui décide des valeurs que l'IA incarne, et selon quel processus démocratique ?**
+It is: **who decides the values AI embodies, and through what democratic process?**
 
-Ce n'est pas une question religieuse. C'est une question de souveraineté. Et en Europe, nous avons tendance à la poser trop tard, trop timidement, et dans les mauvais forums.
+This isn't a religious question. It's a question of sovereignty. And in Europe, we tend to ask it too late, too timidly, and in the wrong forums.
 
-## Ce que dit Olah lui-même — et pourquoi ça m'autorise à parler
+## What Olah himself says — and why it authorizes me to speak
 
-Dans son discours au Vatican, Olah a tenu un propos qui mérite d'être lu attentivement. Je le cite intégralement :
+In his Vatican address, Olah made a statement worth reading closely. I quote it in full:
 
-> *« Every frontier AI lab—including Anthropic—operates inside a set of incentives and constraints that can sometimes conflict with doing the right thing. (...) It is enormously important that there be people outside those incentives—people who care about things going well and insist on safety, who are paying close attention, who are willing to say hard things, who are willing to be our earnest, thoughtful, critics. »*
+> *"Every frontier AI lab—including Anthropic—operates inside a set of incentives and constraints that can sometimes conflict with doing the right thing. (...) It is enormously important that there be people outside those incentives—people who care about things going well and insist on safety, who are paying close attention, who are willing to say hard things, who are willing to be our earnest, thoughtful, critics."*
 
-Traduit librement : *les labs IA, le nôtre compris, sont prisonniers d'incentives qui peuvent entrer en conflit avec faire le bien. Il est essentiel qu'il existe des voix extérieures à ces incentives, des critiques attentifs et rigoureux qui nous disent quand nous échouons.*
+Olah calls for external critics. My external critique is precisely this: **the unprecedented concentration of decision-making power over AI systems in the hands of a few private American labs — whose combined valuation exceeds 1,800 billion dollars — while the democratic institutions of regulation, European ones first and foremost, have neither the capital, nor the compute, nor the models to weigh into this conversation on equal terms.**
 
-Bien. En voilà une.
+That the founders of these labs are personally convinced they're doing good changes nothing about the structural question. An actor's sincerity is no substitute for the legitimacy of a democratic process.
 
-Olah appelle à des critiques externes. Ma critique externe est précisément celle-ci : **la concentration sans précédent du pouvoir décisionnel sur les systèmes d'IA dans les mains de quelques labs privés américains, dont la valorisation cumulée dépasse 1 800 milliards de dollars, alors que les institutions démocratiques de régulation — européennes en premier lieu — n'ont ni le capital, ni le calcul, ni les modèles pour peser dans cette conversation à armes égales.**
+## The real fault line: not fear vs. no fear. But power vs. governance.
 
-Que les fondateurs de ces labs soient personnellement convaincus de bien faire ne change rien à la question structurelle. La sincérité d'un acteur ne se substitue pas à la légitimité d'un processus démocratique.
+What interests me in the debate Weiss-Blatt opens — even if she doesn't frame it this way — is that the fault line on AI is not between optimists and pessimists, between techno-enthusiasts and doomers.
 
-## La vraie ligne de fracture : pas peur vs. pas peur. Mais pouvoir vs. gouvernance.
+It is between those who believe AI governance should remain in the hands of "responsible" private actors (*self-certified*, as Gregor Hohpe would say of an architecture that validates itself) and those who believe that systems at this scale of impact call for democratic regulation, real checks and balances, and independent audit capacity.
 
-Ce qui m'intéresse dans le débat que Weiss-Blatt ouvre — même si elle ne le formule pas ainsi — c'est que la ligne de fracture sur l'IA n'est pas entre optimistes et pessimistes, entre techno-enthousiastes et doomers.
+Let's look at the actual numbers.
 
-Elle est entre ceux qui considèrent que la gouvernance de l'IA doit rester dans les mains d'acteurs privés "responsables" (*self-certified*, comme dirait Gregor Hohpe d'une architecture qui se valide elle-même) et ceux qui pensent que des systèmes à cette échelle d'impact appellent une régulation démocratique, des contre-pouvoirs réels, une capacité d'audit indépendante.
+In February 2025, Emmanuel Macron announced at the Paris summit a consolidated envelope of **109 billion dollars** for AI, aggregating Emirati and Canadian funds and French rounds including Mistral AI. Ursula von der Leyen announced in its wake **20 billion euros** for four to five AI gigafactories on European Union soil. Fifteen months later, in May 2026, **Anthropic alone raises 65 billion dollars** in a single funding round. The investor map published by Anthropic shows **the absence of any European public fund**: no Bpifrance, no European Investment Fund, no equivalent. The continent capable of aggregating 109 billion around a Paris conference does not place a single public dollar in the round that crowns, at that very moment, the world's leading private artificial intelligence player.
 
-Regardons les chiffres réels.
+This isn't an abstract figure. It's a **dependency map** — exactly the kind we produce in enterprise architecture to reveal an information system's points of fragility.
 
-En février 2025, Emmanuel Macron a annoncé au sommet de Paris une enveloppe consolidée de **109 milliards de dollars** sur l'IA, agrégeant fonds émiratis, canadiens et tours français dont Mistral AI. Ursula von der Leyen a annoncé dans la foulée **20 milliards d'euros** pour quatre à cinq gigafactories d'IA sur le territoire de l'Union européenne. Quinze mois plus tard, en mai 2026, **Anthropic lève à elle seule 65 milliards de dollars** dans un seul tour de table. La cartographie des investisseurs publiée par Anthropic montre **l'absence de tout fonds public européen** : ni Bpifrance, ni Fonds européen d'investissement, ni équivalent. Le continent capable d'agréger 109 milliards autour d'une conférence à Paris ne place pas un dollar public dans le tour qui consacre, au même moment, le premier acteur privé mondial de l'intelligence artificielle.
+And an organization — or a continent — whose architecture is entirely dependent on external actors who unilaterally define the rules of the game is not a sovereign organization. It is a captive organization telling itself it made a choice.
 
-Ce n'est pas un chiffre abstrait. C'est une **carte de dépendance** — exactement comme on en produit en architecture d'entreprise pour révéler les points de fragilité d'un SI.
+## What I take away — and what I do with it
 
-Et une organisation — ou un continent — dont l'architecture est entièrement dépendante d'acteurs extérieurs qui définissent unilatéralement les règles du jeu n'est pas une organisation souveraine. Elle est une organisation captive qui se raconte qu'elle a fait un choix.
+I am neither a doomer nor a boomer. I am an architect. My job is to look systems in the face: their dependencies, their blind spots, their tipping points, and the interests they serve.
 
-## Ce que je retiens — et ce que je fais avec
+AI is no different. It is not a matter of science fiction, nor of secular theology. It is a matter of governance, of sovereignty, of collective capacity to decide.
 
-Je ne suis ni doomer ni boomer. Je suis architecte. Mon métier est de regarder les systèmes en face : leurs dépendances, leurs angles morts, leurs points de bascule, et les intérêts qu'ils servent.
+The catastrophist discourse Weiss-Blatt criticizes has a very concrete effect: it installs the idea that decision belongs to the initiated. And every time that idea gains ground, it erodes a little more our collective capacity to say: *no, we want to understand, question, steer, refuse*.
 
-L'IA n'est pas différente. Ce n'est pas un sujet de science-fiction ni de théologie laïque. C'est un sujet de gouvernance, de souveraineté, de capacité collective à décider.
-
-Le discours catastrophiste que Weiss-Blatt critique a un effet très concret : il installe l'idée que la décision appartient aux initiés. Et chaque fois que cette idée progresse, elle grignote un peu plus notre capacité collective à dire : *non, nous voulons comprendre, questionner, orienter, refuser*.
-
-C'est pour ça que j'écris. Pas pour rassurer. Pas pour faire peur. **Pour rendre pensable ce qui se prétend impensable — et redonner du pouvoir de décision à ceux à qui il appartient.**
+That's why I write. Not to reassure. Not to frighten. **To make thinkable what claims to be unthinkable — and to give back the power to decide to those to whom it belongs.**
 
 ---
 
-## Sources & liens utiles
+## Sources & useful links
 
-### L'article qui a inspiré ce texte
+### The article that inspired this piece
 
-- Nirit Weiss-Blatt, *« First They Built a Secular Apocalypse Belief System. Now They Want Religious Authority. »*, AI Panic, 2 juin 2026.
-  [Lire l'article](https://www.aipanic.news/p/first-they-built-a-secular-apocalypse)
+- Nirit Weiss-Blatt, *"First They Built a Secular Apocalypse Belief System. Now They Want Religious Authority."*, AI Panic, June 2, 2026.
+  [Read the article](https://www.aipanic.news/p/first-they-built-a-secular-apocalypse)
 
-### L'encyclique de Léon XIV et l'événement du 25 mai 2026
+### Pope Leo XIV's encyclical and the May 25, 2026 event
 
-- Léon XIV, *Magnifica humanitas: On safeguarding the human person in the time of artificial Intelligence*, Vatican, 25 mai 2026.
-  [Texte officiel de l'encyclique](https://www.vatican.va/content/leo-xiv/fr/encyclicals/documents/20260515-magnifica-humanitas.html)
-- Discours intégral de Christopher Olah au Vatican lors de la présentation de l'encyclique, *Anthropic News*, 25 mai 2026.
-  [Lire le discours](https://www.anthropic.com/news/chris-olah-pope-leo-encyclical)
+- Leo XIV, *Magnifica humanitas: On safeguarding the human person in the time of artificial Intelligence*, Vatican, May 25, 2026.
+  [Official text of the encyclical](https://www.vatican.va/content/leo-xiv/fr/encyclicals/documents/20260515-magnifica-humanitas.html)
+- Full text of Christopher Olah's Vatican address at the presentation of the encyclical, *Anthropic News*, May 25, 2026.
+  [Read the address](https://www.anthropic.com/news/chris-olah-pope-leo-encyclical)
 
-### Acteurs et déclarations cités
+### Actors and statements cited
 
-- **Bill Gurley** sur l'*All-In Podcast* : Anthropic *"midwifing a deity"*.
-  [Voir l'extrait sur X](https://x.com/theallinpod/status/2060742848836735334?s=20)
-- **Anthropic** : entreprise d'IA fondée par Dario et Daniela Amodei, valorisée à 965 milliards de dollars depuis le 28 mai 2026.
-  [Site officiel](https://www.anthropic.com)
+- **Bill Gurley** on the *All-In Podcast*: Anthropic *"midwifing a deity."*
+  [See the clip on X](https://x.com/theallinpod/status/2060742848836735334?s=20)
+- **Anthropic**: AI company founded by Dario and Daniela Amodei, valued at 965 billion dollars since May 28, 2026.
+  [Official site](https://www.anthropic.com)
 
-### Souveraineté numérique : données et analyses
+### Digital sovereignty: data and analysis
 
-- *« Anthropic à 965 Md$ : série H de 65 milliards, aucun fonds public européen au tour »*, ActuIA, mai 2026.
-  [Lire l'analyse](https://www.actuia.com/actualite/anthropic-a-965-md-serie-h-de-65-milliards-aucun-fonds-public-europeen-au-tour/)
-- *« Gigafactories d'IA européennes : le vrai, le faux et l'incertain »*, Polytechnique Insights, mars 2026.
-  [Lire la tribune](https://www.polytechnique-insights.com/tribunes/digital/gigafactories-dia-europeennes-le-vrai-le-faux-et-lincertain/)
+- *"Anthropic à 965 Md$ : série H de 65 milliards, aucun fonds public européen au tour,"* ActuIA, May 2026.
+  [Read the analysis](https://www.actuia.com/actualite/anthropic-a-965-md-serie-h-de-65-milliards-aucun-fonds-public-europeen-au-tour/)
+- *"Gigafactories d'IA européennes : le vrai, le faux et l'incertain,"* Polytechnique Insights, March 2026.
+  [Read the op-ed](https://www.polytechnique-insights.com/tribunes/digital/gigafactories-dia-europeennes-le-vrai-le-faux-et-lincertain/)
 
-### Cadres conceptuels mobilisés
+### Conceptual frameworks
 
 - Gregor Hohpe, *The Software Architect Elevator*, O'Reilly Media, 2020.
-  [Présentation O'Reilly](https://www.oreilly.com/library/view/the-software-architect/9781492077534/)
-- *Continuous Architecture*, communauté et pratiques.
+  [O'Reilly overview](https://www.oreilly.com/library/view/the-software-architect/9781492077534/)
+- *Continuous Architecture*, community and practices.
   [continuous-architecture.org](https://continuous-architecture.org)
 
-### Mes textes en lien
+### Related writing
 
-- *L'Architecture Continue face à l'imprévisible (2026)* — dossier d'analyse stratégique. [Lire le dossier](/dossiers/architecture-continue-polycrise-2026.html)
-- *Nous venons du chaos, l'IA de la logique* — Laurence Poussard, 2025. [Disponible sur Amazon](https://amzn.eu/d/07jFAfN9)
+- *Continuous Architecture Facing the Unpredictable (2026)* — strategic analysis dossier. [Read the dossier](/dossiers/architecture-continue-polycrise-2026.html)
+- *Nous venons du chaos, l'IA de la logique* — Laurence Poussard, 2025. [Available on Amazon](https://amzn.eu/d/07jFAfN9)
 
 ---
 
-*Vos réactions, désaccords, compléments d'information sont bienvenus. Écrivez-moi à [contact@laurence-poussard.com](mailto:contact@laurence-poussard.com).*
+*Your reactions, disagreements, and additional information are welcome. Write to me at [contact@laurence-poussard.com](mailto:contact@laurence-poussard.com).*
