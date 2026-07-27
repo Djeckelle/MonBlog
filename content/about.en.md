@@ -31,6 +31,8 @@ I write here for decision-makers, architects, managers, and professionals who fe
 - Information Systems Modernization
 - Technology Leadership and Decision-Making
 
+[See my full profile →](/en/profil/)
+
 ## Why This Blog?
 
 Technology is no longer just a technical matter. It shapes organizations, influences societies, transforms professions, and increasingly affects geopolitical balances.

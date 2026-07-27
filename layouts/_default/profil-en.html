@@ -1,0 +1,546 @@
+{{ define "main" }}
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  .lp-profil-page{
+    --violet-deep:#4C2A85;
+    --violet-soft:#9B72CF;
+    --gold:#D4AF37;
+    --ink:#2A2A2E;
+    --paper:#FAFAF7;
+    --mist:#F0EBF9;
+    --line: rgba(76,42,133,0.22);
+    --max: 860px;
+    background:var(--paper);
+    color:var(--ink);
+    font-family:'Cormorant Garamond', Georgia, serif;
+    font-size:19px;
+    line-height:1.6;
+    -webkit-font-smoothing:antialiased;
+  }
+  .lp-profil-page *{box-sizing:border-box;}
+  .lp-profil-page a{color:var(--violet-deep);}
+  .lp-profil-page h1,
+  .lp-profil-page h2,
+  .lp-profil-page h3{font-weight:600; margin:0;}
+
+  .lp-label{
+    font-family:'DM Mono', monospace;
+    font-size:12.5px;
+    letter-spacing:0.14em;
+    text-transform:uppercase;
+    color:var(--violet-deep);
+  }
+  .lp-wrap{max-width:var(--max); margin:0 auto; padding:0 28px;}
+
+  /* -------- HERO -------- */
+  .lp-hero{
+    position:relative;
+    padding:110px 0 70px;
+    overflow:hidden;
+  }
+  .lp-hero::before{
+    content:"";
+    position:absolute; inset:0;
+    background:radial-gradient(ellipse 640px 380px at 85% 0%, rgba(212,175,55,0.08), transparent 70%);
+    pointer-events:none;
+  }
+  .lp-hero .lp-wrap{
+    display:flex;
+    align-items:flex-start;
+    justify-content:space-between;
+    gap:36px;
+  }
+  .lp-hero-content{flex:1; min-width:0;}
+  .lp-hero .lp-portrait{
+    flex-shrink:0;
+    width:118px;
+    height:118px;
+    border-radius:50%;
+    overflow:hidden;
+    border:2px solid var(--gold);
+    box-shadow:0 8px 24px rgba(76,42,133,0.15);
+    background:var(--paper);
+  }
+  .lp-hero .lp-portrait img{
+    width:100%; height:100%;
+    object-fit:cover;
+    display:block;
+  }
+  @media (max-width:680px){
+    .lp-hero .lp-wrap{flex-direction:column-reverse;}
+    .lp-hero .lp-portrait{width:96px; height:96px;}
+  }
+  .lp-hero .lp-coord{
+    font-family:'DM Mono', monospace;
+    font-size:12px;
+    color:var(--violet-soft);
+    letter-spacing:0.08em;
+    margin-bottom:18px;
+  }
+  .lp-hero h1{
+    font-size:clamp(2.6rem, 6vw, 4.2rem);
+    color:var(--violet-deep);
+    letter-spacing:-0.01em;
+    line-height:1.02;
+  }
+  .lp-hero .lp-role{
+    font-family:'DM Mono', monospace;
+    font-size:15px;
+    color:var(--ink);
+    margin-top:18px;
+    letter-spacing:0.02em;
+  }
+  .lp-hero .lp-role em{
+    font-style:normal;
+    color:var(--violet-deep);
+    border-bottom:1px solid var(--gold);
+  }
+  .lp-hero .lp-pitch{
+    margin-top:26px;
+    max-width:560px;
+    font-size:1.28rem;
+    font-style:italic;
+    color:var(--ink);
+  }
+  .lp-hero .lp-links{
+    margin-top:36px;
+    display:flex; gap:22px; flex-wrap:wrap;
+    font-family:'DM Mono', monospace;
+    font-size:13px;
+  }
+  .lp-hero .lp-links a{
+    text-decoration:none;
+    color:var(--violet-deep);
+    border-bottom:1px solid transparent;
+    padding-bottom:2px;
+    transition:border-color .2s;
+  }
+  .lp-hero .lp-links a:hover{border-color:var(--gold);}
+
+  /* -------- SECTION SHELL -------- */
+  .lp-profil-page section{padding:60px 0;}
+  h2.lp-title{
+    font-size:clamp(1.7rem,3.2vw,2.15rem);
+    color:var(--violet-deep);
+    margin-bottom:8px;
+  }
+  p.lp-subtitle{
+    font-family:'DM Mono', monospace;
+    font-size:13px;
+    letter-spacing:0.03em;
+    color:var(--violet-soft);
+    margin:0 0 34px;
+  }
+
+  /* -------- PROFIL -------- */
+  .lp-profil p{margin:0 0 18px; font-size:1.15rem;}
+  .lp-profil strong{color:var(--violet-deep); font-weight:600;}
+
+  /* -------- PERSONNEL -------- */
+  .lp-personnel p{font-size:1.15rem; max-width:620px; margin:0;}
+
+  /* -------- TRAJECTOIRE (coupe architecturale) -------- */
+  .lp-axis{position:relative; padding-left:34px;}
+  .lp-axis::before{
+    content:"";
+    position:absolute; left:6px; top:6px; bottom:6px;
+    width:1px;
+    background:linear-gradient(var(--violet-deep), var(--violet-soft) 70%, transparent);
+  }
+  .lp-level{position:relative; padding-bottom:52px;}
+  .lp-level:last-child{padding-bottom:0;}
+  .lp-level::before{
+    content:"";
+    position:absolute; left:-34px; top:6px;
+    width:9px; height:9px;
+    border-radius:50%;
+    background:var(--paper);
+    border:2px solid var(--gold);
+  }
+  .lp-level .lp-years{
+    font-family:'DM Mono', monospace;
+    font-size:12.5px;
+    color:var(--violet-soft);
+    letter-spacing:0.06em;
+    margin-bottom:6px;
+  }
+  .lp-level h3{font-size:1.5rem; color:var(--ink);}
+  .lp-level .lp-org{
+    font-family:'DM Mono', monospace;
+    font-size:13px;
+    color:var(--violet-deep);
+    margin-top:4px;
+    margin-bottom:14px;
+  }
+  .lp-level .lp-context{font-size:1rem; color:var(--ink); opacity:0.85; margin:0 0 12px;}
+  .lp-level ul{margin:0 0 16px; padding-left:20px;}
+  .lp-level li{margin-bottom:7px; font-size:1.03rem;}
+  .lp-impacts{
+    display:flex; flex-wrap:wrap;
+    gap:8px 22px;
+    margin-top:12px;
+  }
+  .lp-impacts span{
+    font-family:'DM Mono', monospace;
+    font-size:12px;
+    color:var(--violet-deep);
+    padding-left:14px;
+    position:relative;
+  }
+  .lp-impacts span::before{
+    content:"·";
+    position:absolute; left:2px; color:var(--gold);
+  }
+  .lp-foundation{
+    margin-top:8px;
+    padding-left:22px;
+    border-left:2px solid var(--gold);
+  }
+  .lp-foundation .lp-years{margin-bottom:8px;}
+  .lp-foundation p{margin:0 0 6px; font-size:1rem;}
+  .lp-foundation .lp-role-line{font-weight:600; color:var(--ink);}
+
+  /* -------- COMPETENCES -------- */
+  .lp-skills-grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fit, minmax(230px,1fr));
+    gap:28px;
+  }
+  .lp-skill-card h3{
+    font-family:'DM Mono', monospace;
+    font-size:13px;
+    letter-spacing:0.08em;
+    text-transform:uppercase;
+    color:var(--gold);
+    margin-bottom:10px;
+  }
+  .lp-skill-card p{margin:0; font-size:1.02rem; line-height:1.7;}
+
+  /* -------- FORMATIONS -------- */
+  .lp-edu-item{margin-bottom:22px;}
+  .lp-edu-item .lp-years{
+    font-family:'DM Mono', monospace;
+    font-size:12px;
+    color:var(--violet-soft);
+  }
+  .lp-edu-item h3{font-size:1.25rem; margin-top:4px;}
+  .lp-edu-item p{margin:4px 0 0; font-size:1rem; opacity:0.85;}
+  .lp-certs{
+    margin-top:30px;
+    display:flex; flex-wrap:wrap; gap:10px;
+  }
+  .lp-certs span{
+    font-family:'DM Mono', monospace;
+    font-size:12.5px;
+    color:var(--violet-deep);
+    padding:5px 0;
+  }
+  .lp-certs span:not(:last-child)::after{content:"  ·"; color:var(--gold); margin-left:12px;}
+
+  /* -------- PUBLICATION -------- */
+  .lp-book{
+    padding-left:22px;
+    border-left:2px solid var(--violet-deep);
+  }
+  .lp-book .lp-mark{
+    font-family:'DM Mono', monospace;
+    font-size:11px;
+    color:var(--gold);
+    letter-spacing:0.1em;
+  }
+  .lp-book h3{font-size:1.6rem; color:var(--violet-deep); margin:8px 0 12px; font-style:italic;}
+  .lp-book p{margin:0 0 14px; font-size:1.05rem;}
+  .lp-book a{
+    font-family:'DM Mono', monospace;
+    font-size:13px;
+    text-decoration:none;
+    border-bottom:1px solid var(--gold);
+  }
+
+  /* -------- CONTACT -------- */
+  .lp-contact{
+    text-align:left;
+  }
+  .lp-contact p.lp-lead{font-size:1.3rem; font-style:italic; max-width:560px; margin-bottom:34px;}
+  .lp-contact-grid{
+    display:flex; gap:40px; flex-wrap:wrap;
+    font-family:'DM Mono', monospace;
+    font-size:14px;
+  }
+  .lp-contact-grid div .lp-label{margin-bottom:6px;}
+  .lp-contact-grid a{text-decoration:none; border-bottom:1px solid var(--gold); padding-bottom:2px;}
+  .lp-profil-page footer{
+    padding:34px 0 50px;
+    font-family:'DM Mono', monospace;
+    font-size:11.5px;
+    color:var(--violet-soft);
+    text-align:center;
+  }
+
+  /* -------- REVEAL -------- */
+  .lp-reveal{opacity:0; transform:translateY(16px); transition:opacity .6s ease, transform .6s ease;}
+  .lp-reveal.lp-in{opacity:1; transform:translateY(0);}
+  @media (prefers-reduced-motion: reduce){
+    .lp-reveal{opacity:1; transform:none; transition:none;}
+    html{scroll-behavior:auto;}
+  }
+
+  @media (max-width:600px){
+    .lp-hero{padding:90px 0 60px;}
+    .lp-profil-page section{padding:54px 0;}
+    .lp-book{flex-direction:column;}
+  }
+</style>
+<div class="lp-profil-page">
+
+<header class="lp-hero">
+  <div class="lp-wrap">
+    <div class="lp-hero-content">
+      <div class="lp-coord">45°46′N — CLERMONT-FERRAND, FRANCE · IT / AI / GOVERNANCE</div>
+      <h1>Laurence Poussard</h1>
+      <div class="lp-role">Senior Enterprise Architect — <em>IT Strategy, Transformation &amp; AI Governance</em></div>
+      <p class="lp-pitch">Connecting strategic vision to operational execution. Over 20 years structuring complex information systems — and questioning what artificial intelligence really changes.</p>
+      <div class="lp-links">
+        <a href="mailto:laurence.poussard63@gmail.com">laurence.poussard63@gmail.com</a>
+        <a href="https://www.linkedin.com/in/laurence-poussard-76115162/" target="_blank" rel="noopener">LinkedIn</a>
+        <a href="https://amzn.eu/d/07jFAfN9" target="_blank" rel="noopener">Nous venons du chaos, l'IA de la logique (book, in French) →</a>
+      </div>
+    </div>
+    <div class="lp-portrait">
+      <img src="/images/profil/laurence-poussard-portrait.jpg" alt="Portrait of Laurence Poussard">
+    </div>
+  </div>
+</header>
+
+<section class="lp-profil">
+  <div class="lp-wrap">
+    <h2 class="lp-title lp-reveal">About</h2>
+    <p class="lp-reveal" style="margin-bottom:28px;"><strong>Enterprise Architect and Senior Manager</strong>, I work at the intersection of corporate strategy, information systems transformation and technology governance.</p>
+    <p class="lp-reveal">With over 20 years of experience in complex environments — industry, agri-food, critical infrastructure — I support executive leadership, business units and IT in the decisions that durably shape information systems: transformation trajectories, architecture governance, application modernization, AI integration.</p>
+    <p class="lp-reveal">My positioning: translating business ambitions into architectures, governance frameworks and sustainable technology trajectories — with particular attention to the organizational, security and geopolitical impacts of technology choices, especially in AI.</p>
+  </div>
+</section>
+
+<section class="lp-trajectoire">
+  <div class="lp-wrap">
+    <h2 class="lp-title lp-reveal">Experience</h2>
+    <p class="lp-subtitle lp-reveal">My journey in enterprise architecture and IT transformation</p>
+
+    <div class="lp-axis">
+
+      <div class="lp-level lp-reveal">
+        <div class="lp-years">MARCH 2025 — PRESENT</div>
+        <h3>Enterprise Architect · Senior Manager</h3>
+        <div class="lp-org">Gluendo — Continuous Architecture, digital transformation &amp; geostrategic impacts of AI</div>
+        <p class="lp-context">Michelin and international critical infrastructure operators (transport &amp; energy) — structuring their architecture governance and IT transformation.</p>
+        <ul>
+          <li>Continuous architecture approach connected to the company's strategic direction</li>
+          <li>Architecture strategy (Where to Play) and structuring of the Business / Architecture / Delivery relay zone</li>
+          <li>Application portfolio governance as a strategic decision lever for IT</li>
+          <li>Indicator-based steering (BSC): portfolio quality, architecture adoption, architect network performance</li>
+          <li>Leading and professionalizing a community of 250+ architects</li>
+          <li>Structuring a strategic AI approach integrating data sovereignty and governance</li>
+          <li>Training and coaching the architecture team on using generative AI in architecture work: defining use cases, skills, and prompt libraries</li>
+        </ul>
+        <div class="lp-impacts">
+          <span>+30% portfolio data quality in 6 months</span>
+          <span>5–10 resources coordinated</span>
+          <span>€350K annual portfolio</span>
+        </div>
+      </div>
+
+      <div class="lp-level lp-reveal">
+        <div class="lp-years">MARCH 2022 — FEBRUARY 2025</div>
+        <h3>AI Lead · Enterprise Architect</h3>
+        <div class="lp-org">Groupe Limagrain — global agri-seed group (59 countries)</div>
+        <ul>
+          <li>Building business ambitions through to execution, a coherent transformation trajectory for IT, organizations and governance</li>
+          <li>Defining and steering the group-wide AI adoption strategy</li>
+          <li>AI upskilling across business functions (support functions, grain sectors): evangelization, training, change management</li>
+          <li>Steering the deployment of Microsoft Copilot and GitHub Copilot</li>
+          <li>Internal innovation programme: multi-stage challenge with a 3-step selection process and deployment budget</li>
+          <li>IT Finance transformation integrating ESG and CSRD regulatory requirements; cost rationalization and optimization</li>
+          <li>Steering alignment of the Group HR information system on a common model</li>
+        </ul>
+        <div class="lp-impacts">
+          <span>35 executives upskilled on AI</span>
+          <span>300 early adopters trained on Copilot</span>
+          <span>€300K/year vendor budget</span>
+          <span>−35% tooling costs</span>
+        </div>
+      </div>
+
+      <div class="lp-level lp-reveal">
+        <div class="lp-years">2012 — 2022 · MICHELIN ENGAGEMENT (EML INGÉNIERIE)</div>
+        <h3>Functional Analyst → Product Architect → Fullstack Architect</h3>
+        <div class="lp-org">Ten years growing into architecture within the same industrial ecosystem</div>
+        <p class="lp-context">From a business-IT interface role on sales force solutions to structuring governance for a 200+ technical component catalogue, then to site and M&amp;A IT architecture, leading a community of 70+ architects and IT experts.</p>
+        <div class="lp-impacts">
+          <span>obsolescence: 80% → 20%</span>
+          <span>50+ projects documented</span>
+          <span>70+ architects led</span>
+        </div>
+      </div>
+
+      <div class="lp-foundation lp-reveal">
+        <div class="lp-years">1998 — 2012</div>
+        <p class="lp-role-line">Technical foundations — Systems Analyst (A-Novo) · Delphi &amp; .NET Lead Developer (Saverglass) · Software Engineer (SoftConcept &amp; Groupe Arcole)</p>
+        <p>Application development across banking, pharmaceutical, logistics and B2B/B2C environments; system overhauls, migrations, technical standards and developer mentoring — the foundation on which the architectural perspective was built.</p>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<section class="lp-competences">
+  <div class="lp-wrap">
+    <h2 class="lp-title lp-reveal">Skills</h2>
+    <p class="lp-subtitle lp-reveal">Technical expertise and professional competencies</p>
+    <div class="lp-skills-grid">
+      <div class="lp-skill-card lp-reveal">
+        <h3>Enterprise Architecture</h3>
+        <p>Continuous Architecture, IT urbanization, application portfolio governance, reference architectures, IT mapping (ArchiMate, UML), technical debt management, TOGAF, SAFe.</p>
+      </div>
+      <div class="lp-skill-card lp-reveal">
+        <h3>Strategy &amp; IT Transformation</h3>
+        <p>IT master plan, business/IT strategic alignment, transformation governance, change management, IT risk management, portfolio steering.</p>
+      </div>
+      <div class="lp-skill-card lp-reveal">
+        <h3>AI Governance &amp; Strategy</h3>
+        <p>AI adoption strategy, AI governance, regulatory compliance (AI Act, GDPR, CSRD), data sovereignty, organizational upskilling.</p>
+      </div>
+      <div class="lp-skill-card lp-reveal">
+        <h3>Technology Architecture</h3>
+        <p>Microservices, cloud (Azure, AWS, GCP), legacy modernization, replatforming, IoT, Domain Driven Design, Event Storming.</p>
+      </div>
+      <div class="lp-skill-card lp-reveal">
+        <h3>Tools</h3>
+        <p>Mega Hopex, Orbus Software, LeanIX, ServiceNow, Ekialis, IWS Nautilus.</p>
+      </div>
+      <div class="lp-skill-card lp-reveal">
+        <h3>Leadership &amp; Posture</h3>
+        <p>Leading large-scale communities, influence without formal authority, translating complexity for executive audiences, critical thinking, decision-making under uncertainty, mentoring, connecting strategy and execution.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="lp-motscles">
+  <div class="lp-wrap">
+    <h2 class="lp-title lp-reveal">Keywords</h2>
+    <div class="lp-certs lp-reveal" style="margin-top:0;">
+      <span>Enterprise Architecture</span>
+      <span>Continuous Architecture</span>
+      <span>AI Governance</span>
+      <span>IT Transformation</span>
+      <span>IT Urbanization</span>
+      <span>Application Portfolio</span>
+      <span>IT Mapping</span>
+      <span>Data Sovereignty</span>
+      <span>AI Act</span>
+      <span>GDPR</span>
+      <span>CSRD</span>
+      <span>Change Management</span>
+      <span>TOGAF</span>
+      <span>ArchiMate</span>
+      <span>Cloud</span>
+      <span>Microservices</span>
+      <span>Copilot</span>
+      <span>Programme Management</span>
+    </div>
+  </div>
+</section>
+
+<section class="lp-formations">
+  <div class="lp-wrap">
+    <h2 class="lp-title lp-reveal">Education &amp; Certifications</h2>
+    <p class="lp-subtitle lp-reveal">Academic background and certifications</p>
+
+    <div class="lp-edu-item lp-reveal">
+      <div class="lp-years">TRAINER</div>
+      <h3>Continuous Architecture</h3>
+    </div>
+    <div class="lp-edu-item lp-reveal">
+      <div class="lp-years">ESCP BUSINESS SCHOOL</div>
+      <h3>Digital Transformation</h3>
+      <p>A programme that reinforced the strategic and business reading of digital transformation, building on twenty years in the field.</p>
+    </div>
+    <div class="lp-edu-item lp-reveal">
+      <div class="lp-years">BTS (FRANCE)</div>
+      <h3>IT Management</h3>
+    </div>
+    <div class="lp-edu-item lp-reveal">
+      <div class="lp-years">DUT (FRANCE)</div>
+      <h3>Chemistry</h3>
+    </div>
+
+    <div class="lp-certs lp-reveal">
+      <span>TOGAF Certified</span>
+      <span>ArchiMate Certified</span>
+      <span>ITIL 4.0 Certified</span>
+    </div>
+  </div>
+</section>
+
+<section class="lp-publication">
+  <div class="lp-wrap">
+    <h2 class="lp-title lp-reveal">Publication</h2>
+    <p class="lp-subtitle lp-reveal">A book that extends a stance</p>
+    <div class="lp-book lp-reveal">
+      <div>
+        <div class="lp-mark">AMAZON ÉDITIONS · 2025</div>
+        <h3>Nous venons du chaos, l'IA de la logique</h3>
+        <p>A book (in French) that extends the intellectual stance running through my entire practice: rejecting simplistic narratives about AI — neither technological utopia nor unfounded panic — to give decision-makers and organizations back the means to think and act.</p>
+        <a href="https://amzn.eu/d/07jFAfN9" target="_blank" rel="noopener">View the book on Amazon →</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="lp-personnel">
+  <div class="lp-wrap">
+    <h2 class="lp-title lp-reveal">Personal Side</h2>
+    <p class="lp-reveal">Board member of an association for over twenty years, I practice hiking, meditation, karate and horseback riding. I enjoy discovering new places and new worlds — a curiosity that also feeds how I approach architecture.</p>
+  </div>
+</section>
+
+<section class="lp-contact">
+  <div class="lp-wrap">
+    <h2 class="lp-title lp-reveal">Contact</h2>
+    <p class="lp-subtitle lp-reveal">Always happy to talk</p>
+    <p class="lp-lead lp-reveal">Let's talk architecture, IT governance or AI strategy — references available on request, mission confidentiality respected.</p>
+    <div class="lp-contact-grid lp-reveal">
+      <div>
+        <div class="lp-label">Email</div>
+        <a href="mailto:laurence.poussard63@gmail.com">laurence.poussard63@gmail.com</a>
+      </div>
+      <div>
+        <div class="lp-label">LinkedIn</div>
+        <a href="https://www.linkedin.com/in/laurence-poussard-76115162/" target="_blank" rel="noopener">laurence-poussard</a>
+      </div>
+      <div>
+        <div class="lp-label">Based in</div>
+        Clermont-Ferrand, France
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer>
+  © 2026 Laurence Poussard — Senior Enterprise Architect
+</footer>
+
+<script>
+  const els = document.querySelectorAll('.lp-reveal');
+  const io = new IntersectionObserver((entries)=>{
+    entries.forEach(e=>{
+      if(e.isIntersecting){ e.target.classList.add('lp-in'); io.unobserve(e.target); }
+    });
+  }, {threshold:0.12});
+  els.forEach(el=>io.observe(el));
+</script>
+
+</div>
+{{ end }}

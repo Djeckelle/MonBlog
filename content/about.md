@@ -28,6 +28,8 @@ J'ai publié en 2025 *[Nous venons du chaos, l'IA de la logique](https://amzn.eu
 - Modernisation des systèmes d’information
 - Leadership et prise de décision
 
+[Voir mon profil détaillé →](/profil/)
+
 ## Pourquoi ce blog ?
 La technologie n’est plus seulement une question technique. Elle façonne les organisations, influence les sociétés, transforme les métiers et impacte de plus en plus l’équilibre géopolitique.
 
