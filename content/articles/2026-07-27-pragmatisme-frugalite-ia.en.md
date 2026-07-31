@@ -4,6 +4,7 @@ date: 2026-07-27
 description: "A four-question discernment framework to run before you pick a model. What the Informa Tech AI Trends Report 2026 unwittingly reveals about the real cost of skipping it."
 tags: ["AI", "governance", "architecture", "frugality"]
 draft: false
+categories: ["IA"]
 cover:
     image: "/images/articles/ia-pragmatisme-frugalite-cover.png"
     alt: "An architecture model next to a diagram titled AI Discerning Framework, with the words pragmatism, frugality and AI discerning"

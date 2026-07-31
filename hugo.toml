@@ -13,6 +13,18 @@ buildFuture = false
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+# ══════════════════════════════════════════
+# TAXONOMIES
+# tag   = maillage fin transversal (inchangé)
+# category = les 3 rubriques de la home (IA / Architecture / Reflexion)
+# ⚠ déclarer les DEUX : ce bloc remplace les défauts de Hugo
+# ══════════════════════════════════════════
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
 # ══════════════════════════════════════════
 # PARAMÈTRES GLOBAUX (partagés entre les langues)
 # ══════════════════════════════════════════
@@ -20,6 +32,7 @@ buildFuture = false
 [params]
   author = "Laurence Poussard"
   defaultTheme = "auto"
+  mainSections = ["articles"]
   ShowReadingTime = true
   ShowShareButtons = true
   ShareButtons = ["linkedin", "whatsapp"]
@@ -84,10 +97,10 @@ buildFuture = false
     url = "/ressources/"
     weight = 30
   [[languages.fr.menu.main]]
-  identifier = "bibliotheque"
-  name = "Bibliothèque"
-  url = "/bibliotheque/"
-  weight = 35
+    identifier = "bibliotheque"
+    name = "Bibliothèque"
+    url = "/bibliotheque/"
+    weight = 35
   [[languages.fr.menu.main]]
     identifier = "about"
     name = "À propos"
@@ -127,10 +140,10 @@ buildFuture = false
     url = "/en/ressources/"
     weight = 30
   [[languages.en.menu.main]]
-  identifier = "library"
-  name = "Library"
-  url = "/en/library/"
-  weight = 35
+    identifier = "library"
+    name = "Library"
+    url = "/en/library/"
+    weight = 35
   [[languages.en.menu.main]]
     identifier = "about"
     name = "About"

@@ -1,0 +1,50 @@
+{{ define "main" }}
+<section class="lp-home">
+
+  {{/* ---------- HERO (depuis homeInfoParams du hugo.toml) ---------- */}}
+  {{ with site.Params.homeInfoParams }}
+  <header class="lp-home-hero">
+    <h1 class="lp-home-titre">{{ .Title }}</h1>
+    <p class="lp-home-accroche">{{ .Content | safeHTML }}</p>
+  </header>
+  {{ end }}
+  {{ with site.Params.socialIcons }}
+  <div class="lp-home-social">
+    {{ range . }}
+    <a href="{{ .url }}" target="_blank" rel="noopener">{{ .name | title }}</a>
+    {{ end }}
+  </div>
+  {{ end }}
+
+  {{/* ---------- DÉFINITION DES 3 TUILES (FR) ---------- */}}
+  {{ $articles := where site.RegularPages "Type" "articles" }}
+
+  {{ $themes := slice
+      (dict "key" "IA" "slug" "ia" "titre" "Intelligence artificielle" "desc" "Discernement, gouvernance et usages réels — ni doomer, ni boomer.")
+      (dict "key" "Architecture" "slug" "architecture" "titre" "Architecture d'entreprise" "desc" "Continuous Architecture, patrimoine SI, interfaces et rôle de l'architecte.")
+      (dict "key" "reflexion" "slug" "reflexion" "titre" "Pas de côté" "desc" "Souveraineté, géostratégie, société — ce que la technologie fait au réel.")
+  }}
+
+  {{/* ---------- VERSION ANGLAISE ---------- */}}
+  {{ if eq site.Language.Lang "en" }}
+  {{ $themes = slice
+      (dict "key" "IA" "slug" "ia" "titre" "Artificial intelligence" "desc" "Discernment, governance and real-world uses — neither doomer nor boomer.")
+      (dict "key" "Architecture" "slug" "architecture" "titre" "Enterprise architecture" "desc" "Continuous Architecture, application estate, interfaces and the architect's role.")
+      (dict "key" "reflexion" "slug" "reflexion" "titre" "Behind the obvious" "desc" "Sovereignty, geostrategy, society — what technology does to the real world.")
+  }}
+  {{ end }}
+
+  {{/* ---------- RENDU DES TUILES ---------- */}}
+  <div class="lp-tuiles">
+    {{ range $themes }}
+      {{ $inTheme := where $articles "Params.categories" "intersect" (slice .key) }}
+      <a class="lp-tuile" href="{{ (printf "/categories/%s/" .slug) | relLangURL }}">
+        <h2 class="lp-tuile-titre">{{ .titre }}</h2>
+        <p class="lp-tuile-desc">{{ .desc }}</p>
+        <span class="lp-tuile-compteur">{{ len $inTheme }} article{{ if ne (len $inTheme) 1 }}s{{ end }} →</span>
+      </a>
+    {{ end }}
+  </div>
+
+</section>
+{{ end }}

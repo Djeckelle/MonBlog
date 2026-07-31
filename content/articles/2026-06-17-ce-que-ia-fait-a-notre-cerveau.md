@@ -4,6 +4,7 @@ date: 2026-06-17
 description: "Série Decision Day 2026 (2/3). La souveraineté cognitive est le vrai angle mort de la transformation IA — et aucun comité de gouvernance ne pose la question. Prochain article : pourquoi la valeur de l'IA se trouve aux interfaces entre les silos, et ce que cela signifie pour le rôle de l'architecte."
 tags: ["IA", "gouvernance", "souveraineté cognitive", "Decision Day 2026", "IHEDN", "architecture", "Continuous Architecture"]
 draft: false
+categories: ["IA"]
 ---
 
 *Série Decision Day 2026 — Article 2/3*

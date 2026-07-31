@@ -4,6 +4,7 @@ date: 2026-01-15
 description: "On one side, a 'humanist' superintelligence promised from the floors of vision. On the other, psychiatrists documenting delusions fueled by chatbots. Between the two, a gap no one governs."
 tags: ["AI", "governance", "mental health", "architecture", "anthropology", "sovereignty"]
 draft: false
+categories: ["reflexion"]
 cover:
     image: "/images/articles/intention-strategique-X-realite-anthropologique.jpg"
     alt: "On one side the radiant city of humanist superintelligence, on the other the dark world of chatbot psychosis, with a human gaze at the seam"

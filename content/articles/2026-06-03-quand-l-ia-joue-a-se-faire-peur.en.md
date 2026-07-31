@@ -4,6 +4,7 @@ date: 2026-06-03
 description: "AI doomerism has the structure of a religious movement — but what it really reveals is a battle over governance and sovereignty. A response to Nirit Weiss-Blatt's piece on AI Panic."
 tags: ["AI", "governance", "sovereignty", "architecture", "public debate"]
 draft: false
+categories: ["IA"]
 ---
 
 *In response to Nirit Weiss-Blatt's article, "First They Built a Secular Apocalypse Belief System. Now They Want Religious Authority."*

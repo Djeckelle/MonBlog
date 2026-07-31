@@ -4,6 +4,7 @@ date: 2026-07-27
 description: "Avant de choisir un modèle, une grille de discernement en quatre questions. Ce que le AI Trends Report 2026 d'Informa Tech révèle, malgré lui, sur le coût réel de l'absence de méthode."
 tags: ["IA", "gouvernance", "architecture", "frugalité"]
 draft: false
+categories: ["IA"]
 cover:
     image: "/images/articles/ia-pragmatisme-frugalite-cover.png"
     alt: "Maquette d'architecture posée à côté d'un schéma intitulé AI Discerning Framework, avec les mots pragmatisme, frugalité et discernement IA"

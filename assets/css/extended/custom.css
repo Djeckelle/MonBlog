@@ -151,3 +151,85 @@ code {
     font-weight: 700;
     text-decoration: none;
 }
+
+/* ============================
+   PAGE D'ACCUEIL — Hero + 3 tuiles thématiques
+   (utilise les variables ci-dessus : mode sombre automatique)
+   ============================ */
+
+.lp-home { max-width: 900px; margin: 0 auto; }
+
+/* --- Bandeau d'accueil (nom + accroche + liens) --- */
+.lp-home-hero { margin: 0 0 1rem; }
+.lp-home-titre { margin: 0 0 .5rem; color: var(--primary); }
+.lp-home-accroche { color: var(--content); }
+
+.lp-home-social {
+  margin: 0 0 3rem;
+  display: flex;
+  gap: 1rem;
+}
+.lp-home-social a {
+  color: var(--primary);
+  text-decoration: none;
+  border-bottom: 1px solid var(--tertiary);
+}
+.lp-home-social a:hover { color: var(--secondary); }
+
+/* --- Grille des 3 tuiles --- */
+.lp-tuiles {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.25rem;
+}
+@media (max-width: 760px) {
+  .lp-tuiles { grid-template-columns: 1fr; }
+}
+
+/* --- Une tuile (entièrement cliquable) --- */
+.lp-tuile {
+  display: flex;
+  flex-direction: column;
+  padding: 1.6rem 1.4rem;
+  background: var(--entry);
+  border: 1px solid var(--border);
+  border-top: 4px solid var(--primary);
+  border-radius: 10px;
+  text-decoration: none;
+  transition: transform .15s ease, box-shadow .15s ease, border-color .15s ease;
+}
+.lp-tuile:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 22px rgba(76, 42, 133, .14);
+  border-top-color: var(--secondary);
+}
+
+.lp-tuile-titre {
+  margin: 0 0 .6rem;
+  color: var(--primary);
+  font-size: 1.3rem;
+  line-height: 1.25;
+}
+.lp-tuile-desc {
+  margin: 0;
+  color: var(--content);
+  opacity: .82;
+  font-size: .92rem;
+  flex-grow: 1;      /* pousse le compteur en bas, tuiles alignées */
+}
+.lp-tuile-compteur {
+  margin-top: 1.2rem;
+  color: var(--primary);
+  font-size: .85rem;
+  font-weight: 600;
+}
+.lp-tuile:hover .lp-tuile-compteur { color: var(--secondary); }
+
+/* ============================
+   Afficher les couvertures sur les pages de rubrique
+   (PaperMod les masque par défaut sur catégories / tags)
+   ============================ */
+
+.tag-entry .entry-cover {
+  display: block;
+}

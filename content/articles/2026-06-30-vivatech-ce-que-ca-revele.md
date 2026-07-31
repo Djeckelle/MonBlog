@@ -4,6 +4,7 @@ date: 2026-06-30
 description: "Dix jours après VivaTech 2026, hors du bruit des posts à chaud : ce que le plus grand théâtre technologique d'Europe montre — et surtout ce qu'il ne montre pas. Une lecture architecturale de l'émerveillement."
 tags: ["IA", "VivaTech", "souveraineté", "gouvernance", "architecture", "accès", "Europe"]
 draft: false
+categories: ["IA"]
 
 cover:
     image: "/images/articles/vivatech-2026.jpg"

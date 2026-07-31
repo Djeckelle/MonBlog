@@ -4,6 +4,7 @@ date: 2026-03-15
 description: "En 2026, la polycrise n'est plus un contexte dans lequel on déploie un SI. Elle est devenue une variable d'architecture. Ce que cela change pour l'architecte — et pour les organisations qui acceptent d'en tirer les conséquences."
 tags: ["architecture", "continuous architecture", "polycrise", "souveraineté", "géopolitique", "IA"]
 draft: false
+categories: ["Architecture"]
 ---
 
 Il y a une question que peu d'organisations posent avant que la réponse ne devienne urgente : **de quoi notre SI dépend-il vraiment ?** Pas ce qu'il fait. Ce dont il dépend. Les câbles sous-marins qui transportent 97 % du trafic internet mondial. Les hyperscalers américains dont les serveurs sont soumis au Cloud Act. Les puces taïwanaises sans lesquelles aucune infrastructure ne se renouvelle. Les fournisseurs SaaS dont le siège social est à San Francisco et les données à Dublin — dans une juridiction qui obéit à Washington.

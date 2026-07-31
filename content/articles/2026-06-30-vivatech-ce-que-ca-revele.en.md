@@ -4,6 +4,7 @@ date: 2026-06-30
 description: "Ten days after VivaTech 2026, away from the noise of hot takes: what Europe's largest technology theatre shows — and above all what it doesn't. An architectural reading of wonder."
 tags: ["AI", "VivaTech", "sovereignty", "governance", "architecture", "access", "Europe"]
 draft: false
+categories: ["IA"]
 
 cover:
     image: "/images/articles/vivatech-2026.jpg"
