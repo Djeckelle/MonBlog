@@ -6,6 +6,12 @@ tags: ["AI", "governance", "sovereignty", "architecture", "public debate"]
 draft: false
 categories: ["IA"]
 ---
+> **In short**
+> - AI doomerism has the structure of a religious movement — but what matters isn't the discourse, it's the capture it performs.
+> - The very actors brandishing existential risk are building the AI and concentrating decision-making power in a few private hands.
+> - The real fault line isn't fear versus optimism, but power versus democratic governance.
+
+{{< imprimer >}}
 
 *In response to Nirit Weiss-Blatt's article, "First They Built a Secular Apocalypse Belief System. Now They Want Religious Authority."*
 

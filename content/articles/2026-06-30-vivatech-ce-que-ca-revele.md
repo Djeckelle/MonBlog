@@ -14,6 +14,13 @@ cover:
     hidden: false
 ---
 
+> **En bref**
+> - Un salon comme VivaTech est un théâtre de l'IA : la vraie question n'est pas ce qu'il montre, mais ce qu'il escamote — l'accès, la gouvernance, les valeurs encodées.
+> - La souveraineté n'est pas un mot qu'on pose sur un slide : c'est une architecture, ou elle n'est rien.
+> - La France et l'Europe n'ont pas un problème d'intelligence, mais un problème d'exécution — infiniment plus difficile à résoudre.
+
+{{< imprimer >}}
+
 Oui, VivaTech c'était il y a dix jours.
 
 Non, je n'ai pas écrit à chaud. Tout le monde l'a fait. Les posts LinkedIn ont fusé dès le jeudi soir — émojis fusée, selfies avec robots, « game changer », « mind blown », et la traditionnelle photo floue d'un écran qui affiche quelque chose d'impressionnant.

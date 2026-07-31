@@ -14,7 +14,14 @@ cover:
     hidden: false
 ---
 
-# Conway's Law: When HR Titles Fragment the System Before the Code Does
+**In short**
+
+> - Jack of all trades, master of none: that hire has never delivered
+> - Architecture gets decided the moment the org chart and job descriptions are written
+> - In the age of AI, the mistake costs more: the real scarcity isn't model mastery, it's knowledge of the business being assisted
+
+{{< imprimer >}}
+
 
 Cloud architect. AI architect. DevOps architect. Integration architect. Tomorrow, no doubt, agentic architect. Every technology wave demands its own totem, and the organization complies — a role, a job description, a line in the org chart.
 

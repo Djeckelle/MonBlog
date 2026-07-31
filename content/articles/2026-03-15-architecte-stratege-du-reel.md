@@ -6,6 +6,12 @@ tags: ["architecture", "continuous architecture", "polycrise", "souveraineté", 
 draft: false
 categories: ["Architecture"]
 ---
+> **En bref**
+> - La géopolitique est devenue une variable d'architecture à part entière : choisir un cloud ou un modèle est un pari sur la stabilité du monde.
+> - L'architecte urbaniste dessine des plans ; l'architecte stratège fait le trajet du CODIR au terrain et traduit le monde en contraintes concrètes.
+> - Dans un monde qui se recompose plus vite que les cartographies, c'est la boucle continue — capter, traduire, structurer, apprendre — qui crée la valeur.
+
+{{< imprimer >}}
 
 Il y a une question que peu d'organisations posent avant que la réponse ne devienne urgente : **de quoi notre SI dépend-il vraiment ?** Pas ce qu'il fait. Ce dont il dépend. Les câbles sous-marins qui transportent 97 % du trafic internet mondial. Les hyperscalers américains dont les serveurs sont soumis au Cloud Act. Les puces taïwanaises sans lesquelles aucune infrastructure ne se renouvelle. Les fournisseurs SaaS dont le siège social est à San Francisco et les données à Dublin — dans une juridiction qui obéit à Washington.
 

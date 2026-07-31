@@ -12,6 +12,12 @@ cover:
     relative: false
     hidden: false
 ---
+>**En bref**
+> - D'un côté la promesse d'une « superintelligence humaniste », de l'autre des délires nourris par les chatbots : le même objet technique, vu de deux étages opposés.
+> - Entre l'intention affichée et la réalité vécue, il y a la dette d'exécution — et elle se paie ici en santé mentale.
+> - La vraie question n'est pas « l'IA sera-t-elle humaniste ? » mais « qui tient l'écart entre l'intention et ses effets réels ? ».
+
+{{< imprimer >}}
 
 Il y a un réflexe que je vois revenir dans presque toutes mes missions, sous des formes différentes mais avec la même racine : la conviction qu'il faut de l'IA, partout, tout de suite, faute de quoi on prend du retard. Ce réflexe a un nom, je n'ai pas peur de le dire : c'est du jusqu'au-boutisme. Et comme tout jusqu'au-boutisme, il se pare des habits de la nécessité stratégique pour éviter la seule question qui compte : en a-t-on réellement besoin ?
 

@@ -9,6 +9,13 @@ categories: ["IA"]
 
 *En réaction à l'article de Nirit Weiss-Blatt, « First They Built a Secular Apocalypse Belief System. Now They Want Religious Authority. »*
 
+> **En bref**
+> - Le doomerisme IA a la structure d'un mouvement religieux — mais l'essentiel n'est pas le discours, c'est la capture qu'il opère.
+> - Les mêmes acteurs qui agitent le risque existentiel construisent l'IA et concentrent le pouvoir décisionnel entre quelques mains privées.
+> - La vraie ligne de fracture n'est pas peur contre optimisme, mais pouvoir contre gouvernance démocratique.
+
+{{< imprimer >}}
+
 Il y a des articles qui font mouche, non pas parce qu'ils disent tout, mais parce qu'ils nomment quelque chose que tout le monde sentait sans pouvoir l'articuler. Celui de Nirit Weiss-Blatt, publié le 2 juin 2026 sur *AI Panic*, est de ceux-là.
 
 Son propos est simple et percutant : l'AI doomerism — ce courant qui prédit l'extinction humaine par l'IA — a les attributs structurels d'un mouvement religieux. Dieu remplacé par la superintelligence, l'enfer remplacé par l'extinction, les prophètes remplacés par des probabilistes rationalistes convaincus d'avoir compris ce que les masses ignorent. Et maintenant, cerise sur le dogme, ce mouvement né dans les milieux athées va chercher sa légitimité morale… auprès du Vatican.

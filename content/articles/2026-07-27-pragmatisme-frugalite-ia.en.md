@@ -12,6 +12,12 @@ cover:
     relative: false
     hidden: false
 ---
+> **In short**
+> - Pushing AI to its limits is not a sign of audacity: it is often a lack of judgment disguised as courage.
+> - True audacity lies in deliberate frugality—choosing where AI creates value, and where it does not.
+> - Pragmatism is not lukewarmness: it is the most demanding form of technological discernment.
+
+{{< imprimer >}}
 
 There's a reflex I see resurface in almost every engagement I work on, in different guises but with the same root: the conviction that AI is needed, everywhere, right now, or you'll fall behind. This reflex has a name, and I won't shy away from it: it's maximalism. And like every form of maximalism, it dresses itself up as strategic necessity to dodge the only question that matters: do we actually need this?
 

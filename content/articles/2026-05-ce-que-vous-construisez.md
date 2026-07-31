@@ -10,6 +10,14 @@ categories: ["reflexion"]
 
 *Petit voyage dans les étages d'une organisation qui paie cher pour aller lentement — et tout ce qu'elle gagnerait à faire autrement*
 
+
+> **En bref**
+> - Les dysfonctionnements d'un SI ne sont pas d'abord techniques mais organisationnels : ce que vous construisez ne vous appartient pas, il appartient au collectif.
+> - Sans cadre clair et partagé, l'IA n'arrange rien : elle industrialise le désordre au lieu de le résoudre.
+> - Travailler dans un cadre clair, ce n'est pas perdre en autonomie — c'est gagner en énergie.
+
+{{< imprimer >}}
+
 ---
 
 Dans 80 % des cas, l'informatique n'est pas le métier de l'entreprise. C'est un moyen. Un moyen au service d'un retailer, d'un industriel, d'un laboratoire, d'un énergéticien. Pourtant ce moyen consomme énormément, livre lentement, et finit parfois par freiner les ambitions mêmes qu'il était censé servir.

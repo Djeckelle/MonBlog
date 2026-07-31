@@ -233,3 +233,143 @@ code {
 .tag-entry .entry-cover {
   display: block;
 }
+/* ═══════════════════════════════════════════════════════
+   AJOUTS — à coller à la fin de custom.css
+   1. Bouton imprimer / PDF
+   2. Rendu propre à l'impression (@media print)
+   3. Encadré de synthèse TL;DR (blockquote stylisé)
+   ═══════════════════════════════════════════════════════ */
+
+/* ---------- 1. Bouton imprimer / PDF ---------- */
+
+.lp-print-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: #4C2A85;          /* violet profond */
+  color: #FAFAF7;               /* blanc cassé */
+  border: none;
+  border-radius: 6px;
+  padding: 0.5rem 1rem;
+  font-size: 0.9rem;
+  font-family: inherit;
+  cursor: pointer;
+  margin: 1.5rem 0;
+  transition: background 0.2s ease;
+}
+
+.lp-print-btn:hover {
+  background: #9B72CF;          /* violet doux */
+}
+
+.lp-print-icon {
+  font-size: 1.1rem;
+  line-height: 1;
+}
+
+/* ---------- 2. Encadré de synthèse (TL;DR) et citations détachées ---------- */
+/* Tout blockquote devient un encadré distinct.
+   Pour un TL;DR, ouvrir le blockquote par **En bref** puis 3 puces max. */
+
+.post-content blockquote {
+  border-left: 4px solid #4C2A85;         /* violet profond */
+  background: rgba(76, 42, 133, 0.05);    /* violet très pâle */
+  padding: 0.9rem 1.3rem;
+  margin: 1.5rem 0;
+  border-radius: 0 6px 6px 0;
+  font-style: normal;                     /* pas d'italique par défaut */
+  color: #2A2A2E;                         /* anthracite */
+}
+
+.post-content blockquote p:first-child {
+  margin-top: 0;
+}
+
+.post-content blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+.post-content blockquote strong {
+  color: #4C2A85;                         /* le "En bref" ressort en violet */
+}
+
+/* ---------- 3. Rendu à l'impression / génération PDF ---------- */
+
+@media print {
+
+  /* Masquer tout ce qui n'est pas le contenu de l'article */
+  header, .header,
+  footer, .footer,
+  nav, .nav,
+  aside,
+  .lp-print-btn,
+  .share-buttons,
+  .paginav,
+  #searchbox, .search-header,
+  .breadcrumbs,
+  .post-tags,
+  #comments, .giscus, .giscus-frame,
+  .top-link, #top-link,
+  .entry-footer,
+  .social-icons {
+    display: none !important;
+  }
+
+  /* Nettoyer la page */
+  body,
+  .main,
+  .post-content,
+  .post-single {
+    color: #000 !important;
+    background: #fff !important;
+    max-width: 100% !important;
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    font-size: 12pt;
+    line-height: 1.55;
+  }
+
+  .post-title {
+    font-size: 20pt;
+    margin-bottom: 0.4rem;
+    color: #000 !important;
+  }
+
+  .post-meta {
+    font-size: 9pt;
+    color: #555 !important;
+    margin-bottom: 1rem;
+  }
+
+  /* Liens en noir, soulignés ; afficher l'URL entre parenthèses */
+  a {
+    color: #000 !important;
+    text-decoration: underline;
+  }
+
+  .post-content a[href^="http"]::after {
+    content: " (" attr(href) ")";
+    font-size: 9pt;
+    color: #555;
+    word-break: break-all;
+  }
+
+  /* Éviter les coupures disgracieuses */
+  h1, h2, h3 {
+    page-break-after: avoid;
+    color: #000 !important;
+  }
+
+  img, figure, blockquote, table {
+    page-break-inside: avoid;
+    max-width: 100% !important;
+  }
+
+  /* L'encadré TL;DR reste lisible en noir et blanc */
+  .post-content blockquote {
+    border-left: 3px solid #000 !important;
+    background: #f4f4f4 !important;
+    color: #000 !important;
+  }
+}

@@ -12,6 +12,12 @@ cover:
     relative: false
     hidden: false
 ---
+> **In short**
+> - On one side, the promise of a "humanist superintelligence"; on the other, delusions fed by chatbots — the same technical object seen from two opposite floors.
+> - Between declared intent and lived reality lies execution debt — and here it's paid in mental health.
+> - The real question isn't "will AI be humanist?" but "who holds the gap between intent and its real effects?".
+
+{{< imprimer >}}
 
 There are two discourses about AI that, right now, aren't speaking to each other.
 

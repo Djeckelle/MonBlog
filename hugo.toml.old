@@ -16,7 +16,7 @@ buildFuture = false
 
 # ══════════════════════════════════════════
 # TAXONOMIES
-# tag      = maillage fin transversal
+# tag   = maillage fin transversal
 # category = les rubriques de la home (IA / Architecture / Reflexion)
 # ══════════════════════════════════════════
 
@@ -78,9 +78,20 @@ buildFuture = false
 
   [languages.fr.params.homeInfoParams]
     Title = "Laurence Poussard"
-    Content = """Architecte d'entreprise. Experte de la <em>Continuous Architecture</em>.<br><br>Ce site est un espace de partage d'expériences et de retours du terrain, pour <strong>insuffler du sens, élever le débat et nourrir l'intelligence collective</strong> autour de nos choix technologiques.<br><br><strong>🚀 Par où commencer ?</strong><br>• <a href="/about/">Qui je suis</a> — mon parcours, mes valeurs et ma vision<br>• <a href="/dossiers/architecture-continue-polycrise-2026.html">Le dossier de fond</a> — <em>l'Architecture Continue face à l'imprévisible</em><br>• <a href="/manifeste/">Le Manifeste</a> — <em>les 6 habitudes d'un SI efficace</em><br>• <a href="/intentions/">Convictions & Dialogues</a> — <em>pourquoi ce partage et comment échanger</em>"""
+    Content = """
+Architecte d'entreprise. Experte de la *Continuous Architecture*.
 
-# ---------- MENU FRANÇAIS ----------
+Ce site est un espace de partage d'expériences, d'intuitions et de retours du terrain pour **insuffler du sens, élever le débat et nourrir l'intelligence collective** autour de nos choix technologiques.
+
+---
+
+### 🚀 Par où commencer ?
+
+• **[Le Manifeste](/manifeste/)** — *Les 6 habitudes d'un SI efficace (pour un SI au service du métier, du collectif et du temps long)*  
+• **[Réflexions & Livre](/bibliotheque/)** — *Les dossiers de fond sur la gouvernance de l'IA, la souveraineté et la complexité (VUCA)*  
+• **[Convictions & Dialogues](/intentions/)** — *Pourquoi ce partage, et comment faire circuler et grandir ces idées ensemble dans vos collectifs*  
+• **[Articles](/articles/)** — *Les analyses et billets du fil de l'eau*
+"""
 
   [[languages.fr.menu.main]]
     identifier = "manifeste"
@@ -89,9 +100,9 @@ buildFuture = false
     weight = 10
 
   [[languages.fr.menu.main]]
-    identifier = "reperes"
-    name = "Repères"
-    url = "/reperes/"
+    identifier = "bibliotheque"
+    name = "Réflexions & Livre"
+    url = "/bibliotheque/"
     weight = 20
 
   [[languages.fr.menu.main]]
@@ -127,9 +138,20 @@ buildFuture = false
 
   [languages.en.params.homeInfoParams]
     Title = "Laurence Poussard"
-    Content = """Enterprise Architect. <em>Continuous Architecture</em> practitioner.<br><br>This site is a space for sharing field experience and insights, aiming to <strong>bring meaning, elevate the debate and foster collective intelligence</strong> around our tech choices.<br><br><strong>🚀 Where to start?</strong><br>• <a href="/en/about/">Who I am</a> — my background, values and vision<br>• <a href="/dossiers/architecture-continue-polycrise-2026.html">The in-depth dossier</a> — <em>Continuous Architecture facing the unpredictable</em> (in French)<br>• <a href="/en/manifesto/">The Manifesto</a> — <em>6 habits for an effective IS</em><br>• <a href="/en/intentions/">Convictions & Dialogue</a> — <em>the vision behind this site and how to exchange</em>"""
+    Content = """
+Enterprise Architect. Continuous Architecture practitioner.
 
-# ---------- MENU ANGLAIS ----------
+This site is a space for sharing field experience, insights, and lessons learned—aiming to **bring meaning, elevate the debate, and foster collective intelligence** around technological choices.
+
+---
+
+### 🚀 Where to start?
+
+• **[The Manifesto](/en/manifesto/)** — *6 habits for an effective IS (serving business, people, and the long term)*  
+• **[Insights & Book](/en/library/)** — *Deep dives into AI governance, sovereignty, and complexity (VUCA)*  
+• **[Convictions & Dialogue](/en/intentions/)** — *The vision behind this site and how to exchange ideas together*  
+• **[Articles](/en/articles/)** — *Ongoing analyses and posts*
+"""
 
   [[languages.en.menu.main]]
     identifier = "manifesto"
@@ -138,9 +160,9 @@ buildFuture = false
     weight = 10
 
   [[languages.en.menu.main]]
-    identifier = "reperes"
-    name = "Compass"
-    url = "/en/compass/"
+    identifier = "library"
+    name = "Insights & Book"
+    url = "/en/library/"
     weight = 20
 
   [[languages.en.menu.main]]

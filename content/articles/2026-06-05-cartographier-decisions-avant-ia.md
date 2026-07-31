@@ -15,6 +15,13 @@ cover:
 
 *Série Decision Day 2026 — Article 1/3*
 
+> **En bref**
+> - Avant de choisir un modèle ou un budget, la vraie question est : quelles décisions déléguer, à qui, et avec quelle possibilité de reprendre la main ?
+> - Trois niveaux structurent la gouvernance : délégation complète, co-décision, exclusion.
+> - Cartographier ses décisions est le préalable que personne ne veut financer — sans lui, l'IA amplifie le désordre existant.
+
+{{< imprimer >}}
+
 ---
 
 Il y a une question que presque aucune organisation ne pose avant de lancer son programme IA.

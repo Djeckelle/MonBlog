@@ -12,6 +12,12 @@ cover:
     relative: false
     hidden: false
 ---
+> **En bref**
+> - D'un côté la promesse d'une « superintelligence humaniste », de l'autre des délires nourris par les chatbots : le même objet technique, vu de deux étages opposés.
+> - Entre l'intention affichée et la réalité vécue, il y a la dette d'exécution — et elle se paie ici en santé mentale.
+> - La vraie question n'est pas « l'IA sera-t-elle humaniste ? » mais « qui tient l'écart entre l'intention et ses effets réels ? ».
+
+{{< imprimer >}}
 
 Il y a deux discours sur l'IA qui, en ce moment, ne se parlent pas.
 

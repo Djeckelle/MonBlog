@@ -13,8 +13,12 @@ cover:
     relative: false
     hidden: false
 ---
+> **En bref**
+> - Le mouton à 5 pattes n'a jamais fait ses preuves
+> - L'architecture se pense dès l'oganisation et les fiche de poste
+> - À l'ère de l'IA, l'erreur coûte plus cher : la vraie rareté n'est pas la maîtrise du modèle, c'est la connaissance du métier qu'on assiste.
+{{< imprimer >}}
 
-# Loi de Conway : quand les titres RH fragmentent le système avant le code
 
 Architecte cloud. Architecte IA. Architecte DevOps. Architecte intégration. Demain, sans doute, architecte agentique. Chaque vague technologique réclame son totem, et l'organisation s'exécute — un poste, une fiche, une ligne dans l'organigramme.
 

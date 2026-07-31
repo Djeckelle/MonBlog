@@ -9,6 +9,13 @@ categories: ["IA"]
 
 *Série Decision Day 2026 — Article 3/3*
 
+> **En bref**
+> - Ce n'est pas l'IA qui crée de la valeur : elle révèle les frontières mal gouvernées entre les silos de l'organisation.
+> - Loi de Conway : les interfaces techniques défaillantes sont le miroir des ruptures de communication entre directions.
+> - Reste la question que personne ne pose : qui a mandat pour gouverner ces frontières ? Un architecte stratège.
+
+{{< imprimer >}}
+
 ---
 
 Il y a une phrase que Vincent Luciani, cofondateur d'Artefact, a posée avec une simplicité désarmante lors du Decision Day 2026 :

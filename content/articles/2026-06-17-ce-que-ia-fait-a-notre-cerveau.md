@@ -9,6 +9,12 @@ categories: ["IA"]
 
 *Série Decision Day 2026 — Article 2/3*
 
+> **En bref**
+> - On gouverne les données qu'on donne à l'IA ; personne ne gouverne ce que l'IA fait à la capacité de penser de ceux qui la consultent.
+> - Un réseau neuronal qui n'est plus sollicité s'atrophie : la dépendance cognitive est la plus durable et la plus difficile à inverser.
+> - La souveraineté cognitive — préserver un jugement humain entraîné — devient une question de gouvernance à part entière.
+
+{{< imprimer >}}
 ---
 
 On parle beaucoup de souveraineté des données. On commence à parler de souveraineté énergétique et de souveraineté des modèles. On ne parle presque jamais de souveraineté cognitive.
