@@ -1,0 +1,5 @@
+[print_button]
+other = "Imprimer / Télécharger en PDF"
+
+[print_button_aria]
+other = "Imprimer ou télécharger cet article en PDF"
