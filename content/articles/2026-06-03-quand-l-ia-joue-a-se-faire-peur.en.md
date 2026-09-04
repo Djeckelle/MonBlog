@@ -130,8 +130,10 @@ That's why I write. Not to reassure. Not to frighten. **To make thinkable what c
 
 ### Related writing
 
-- *Continuous Architecture Facing the Unpredictable (2026)* — strategic analysis dossier. [Read the dossier](/dossiers/architecture-continue-polycrise-2026.html)
-- *Nous venons du chaos, l'IA de la logique* — Laurence Poussard, 2025. [Available on Amazon](https://amzn.eu/d/07jFAfN9)
+- *Nous venons du chaos, l'IA de la logique* (2025, in French) → [The book](https://amzn.eu/d/07jFAfN9)
+- Report: *Continuous Architecture facing the unpredictable (2026, in French)* → [/dossiers/architecture-continue-polycrise-2026-en.html](/dossiers/architecture-continue-polycrise-2026-en.htmll)
+- Manifesto: *Six habits of an effective information system* → [/en/manifesto/](/en/manifesto/)
+
 
 ---
 

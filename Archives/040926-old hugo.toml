@@ -127,11 +127,7 @@ buildFuture = false
 
   [languages.en.params.homeInfoParams]
     Title = "Laurence Poussard"
-    Content = """Enterprise Architect. <em>Continuous Architecture</em> practitioner.<br><br>This site is a space for sharing field experience and insights, aiming to <strong>bring meaning, elevate the debate and foster collective intelligence</strong> around our tech choices.<br><br><strong>🚀 Where to start?</strong><br>
-    • <a href="/en/about/">Who I am</a> — my background, values and vision<br>
-    • <a href="/dossiers/architecture-continue-polycrise-2026-en.html">The in-depth dossier</a> — <em>Continuous Architecture facing the unpredictable</em><br>
-    • <a href="/en/manifesto/">The Manifesto</a> — <em>6 habits for an effective IS</em><br>
-    • <a href="/en/intentions/">Convictions & Dialogue</a> — <em>the vision behind this site and how to exchange</em>"""
+    Content = """Enterprise Architect. <em>Continuous Architecture</em> practitioner.<br><br>This site is a space for sharing field experience and insights, aiming to <strong>bring meaning, elevate the debate and foster collective intelligence</strong> around our tech choices.<br><br><strong>🚀 Where to start?</strong><br>• <a href="/en/about/">Who I am</a> — my background, values and vision<br>• <a href="/dossiers/architecture-continue-polycrise-2026.html">The in-depth dossier</a> — <em>Continuous Architecture facing the unpredictable</em> (in French)<br>• <a href="/en/manifesto/">The Manifesto</a> — <em>6 habits for an effective IS</em><br>• <a href="/en/intentions/">Convictions & Dialogue</a> — <em>the vision behind this site and how to exchange</em>"""
 
 # ---------- MENU ANGLAIS ----------
 
