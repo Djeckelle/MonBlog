@@ -372,4 +372,42 @@ code {
     background: #f4f4f4 !important;
     color: #000 !important;
   }
+}/* =======================================================
+   BOUTON RSS  — à AJOUTER À LA FIN de custom.css
+   (ne rien effacer au-dessus : on ajoute seulement)
+   ======================================================= */
+
+.lp-rss-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+  background: #f0eaf7;                 /* crème violet, comme le dossier */
+  color: #4c2a85 !important;           /* violet profond */
+  border: 1px solid #4c2a85;
+  border-radius: 8px;
+  padding: 0.7rem 1rem;
+  margin: 2rem 0;
+  font-size: 0.92rem;
+  line-height: 1.3;
+  text-decoration: none;
+  transition: background 0.2s ease, color 0.2s ease;
+}
+
+.lp-rss-btn:hover {
+  background: #4c2a85;                 /* violet plein au survol */
+  color: #fafaf7 !important;           /* texte clair */
+}
+
+.lp-rss-icon {
+  display: inline-flex;
+  flex-shrink: 0;
+}
+
+.lp-rss-text {
+  font-weight: 500;
+}
+
+/* Masquer le bouton à l'impression / PDF */
+@media print {
+  .lp-rss-btn { display: none !important; }
 }
