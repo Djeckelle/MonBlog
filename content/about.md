@@ -3,7 +3,7 @@ title: "À propos"
 hidemeta: true
 ---
 
-Je suis Laurence Poussard, architecte d'entreprise.
+Ni doomer ni boomer : je suis architecte d'entreprise.
 
 <figure>
   <img src="/images/laurence-poussard-sketchnote.jpg" 
@@ -11,31 +11,30 @@ Je suis Laurence Poussard, architecte d'entreprise.
   <figcaption>Mon parcours, mes valeurs et ma pratique en un coup d'œil.</figcaption>
 </figure>
 
-Je travaille depuis plusieurs années avec des organisations complexes — grands groupes, SI distribués, produits digitaux — sur la structuration et la mise en impact de leur pratique d'architecture. Ma spécificité est de relier en permanence la technologie à ses impacts humains, organisationnels, sociétaux, géostratégiques, environnementaux et sécuritaires.
+Je travaille depuis plusieurs années auprès d'organisations complexes — grands groupes, SI distribués, produits digitaux — sur un terrain où la technologie n'est jamais qu'une question technique. Elle façonne les organisations, redistribue le pouvoir, engage des choix géostratégiques, environnementaux et sécuritaires que peu de décideurs voient venir. Mon travail consiste à relier ces plans entre eux, en permanence, plutôt qu'à les traiter séparément.
 
 Je suis formée aux pratiques de Continuous Architecture et m'inscris dans la lignée des approches modernes d'architecture évolutive, notamment celles développées par Gregor Hohpe.
 
-J'ai publié en 2025 *[Nous venons du chaos, l'IA de la logique](https://amzn.eu/d/035y3iq2)
- Un second ouvrage est en préparation, adressé aux managers, leaders, professionnels en repositionnement et experts techniques en évolution.
+J'ai publié en 2025 *[Nous venons du chaos, l'IA de la logique](https://amzn.eu/d/07jFAfN9)*. Un second ouvrage est en préparation, adressé aux managers, leaders, professionnels en repositionnement et experts techniques en évolution.
 
-## Domaines d’expertise
+## Ce que je regarde
 
-- Architecture d’entreprise
-- Architecture continue
-- Stratégie et gouvernance de l’IA
-- Gestion du portefeuille d’applications (APM) et du patrimoine IT
-- Transformation des entrerprises : Changement organisationnel et adoption des technologies
-- Modernisation des systèmes d’information
-- Leadership et prise de décision
+Quatre fils traversent ce que j'écris ici :
 
-[Voir mon profil détaillé →](/profil/)
+- **Gouvernance et souveraineté de l'IA** — ce que coûtent vraiment les données qu'on ne purge jamais, les clouds qu'on ne maîtrise pas, les algorithmes qu'on ne questionne pas.
+- **L'architecte augmenté** — ce que les agents IA et le MCP changent réellement au métier d'architecte, sans céder ni au remplacement fantasmé ni au déni corporatiste.
+- **L'architecture continue comme discipline vivante** — patrimoine applicatif, dette technique, l'arbitrage permanent entre stratégie et exécution.
+- **L'IA et l'intelligence humaine** — une conviction que je porte depuis 2017 : l'IA n'a de valeur que si elle libère du temps humain pour ce que l'humain fait de mieux.
 
-## Pourquoi ce blog ?
-La technologie n’est plus seulement une question technique. Elle façonne les organisations, influence les sociétés, transforme les métiers et impacte de plus en plus l’équilibre géopolitique.
+Pour le détail de mon parcours et de mes missions : [voir mon profil →](/profil/)
 
-À travers ce blog, je partage mes réflexions, analyses et conseils pratiques sur l’architecture, l’intelligence artificielle, la transformation numérique et les décisions stratégiques que les organisations doivent prendre dans un monde de plus en plus incertain.
+## Pourquoi ce blog
 
-Mon objectif n’est pas de promouvoir la dernière tendance, mais d’aider les lecteurs à mieux comprendre ce qui se passe vraiment et à prendre des décisions plus éclairées.
+Je refuse les binarités qui dominent le débat — doomer contre boomer sur l'IA, technique contre métier, conformité contre stratégie. Elles simplifient pour rassurer, et elles n'aident personne à décider.
+
+Ici, je ne vends pas d'interventions et je n'assène pas un dogme d'expert. Je partage des convictions issues du terrain, des intuitions, des lectures — comme des points d'appui pour élever le débat et nourrir le dialogue avec des pairs. Ce que j'écris n'est pas une vérité à imposer : c'est une invitation à penser ce qui se prétend impensable, et à redonner du pouvoir de décision à ceux à qui il appartient.
+
+Vos réactions, désaccords et compléments sont bienvenus.
 
 **Pour me contacter** : [laurence.poussard63@gmail.com](mailto:laurence.poussard63@gmail.com)
 **LinkedIn** : [Laurence Poussard](https://www.linkedin.com/in/laurence-poussard-76115162/)

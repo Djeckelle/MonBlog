@@ -1,46 +1,40 @@
 ---
-title: "About me"
+title: "About"
 hidemeta: true
 ---
-I am Laurence Poussard, an Enterprise Architect.
+
+Neither doomer nor boomer: I'm an enterprise architect.
 
 <figure>
   <img src="/images/laurence-poussard-sketchnote.jpg" 
-       alt="Laurence Poussard — Visual summary: background, values, vision of AI, practice of enterprise architecture and Continuous Architecture">
-  <figcaption>My background, my values and my practice at a glance.</figcaption>
+       alt="Laurence Poussard — visual summary: background, values, view of AI, enterprise architecture and Continuous Architecture practice">
+  <figcaption>My background, values and practice at a glance.</figcaption>
 </figure>
 
-For several years, I have been working with complex organizations—large enterprises, distributed information systems, and digital product teams—to help structure and maximize the impact of their architecture practices. My distinctive approach is to continuously connect technology with its human, organizational, societal, geopolitical, environmental, and security implications.
+For several years I've worked with complex organizations — large groups, distributed IT landscapes, digital products — on ground where technology is never just a technical question. It shapes organizations, redistributes power, and sets off geostrategic, environmental and security stakes that few decision-makers see coming. My job is to connect those dimensions constantly, rather than treat them separately.
 
-I am trained in Continuous Architecture practices and align with modern approaches to evolutionary architecture, particularly those developed by Gregor Hohpe.
+I'm trained in Continuous Architecture practices and work in the lineage of modern evolutionary architecture approaches, in particular those developed by Gregor Hohpe.
 
-In 2025, I published *[Nous venons du chaos, l'IA de la logique](https://amzn.eu/d/035y3iq2)*(In french Only for the moment).
+In 2025 I published *[Nous venons du chaos, l'IA de la logique](https://amzn.eu/d/07jFAfN9)* (French, "We Come From Chaos, AI From Logic"). A second book is in progress, aimed at managers, leaders, professionals repositioning their careers, and technical experts in transition.
 
-A second book is currently in preparation, aimed at managers, leaders, professionals navigating career transitions, and technical experts adapting to a rapidly evolving landscape.
+## What I pay attention to
 
-I write here for decision-makers, architects, managers, and professionals who feel that the dominant narratives are no longer sufficient to understand the challenges ahead.
+Four threads run through what I write here:
 
-## Areas of Expertise
+- **AI governance and sovereignty** — what never-purged data, unmastered clouds, and unquestioned algorithms actually cost.
+- **The augmented architect** — what AI agents and MCP really change about the architect's role, without giving in to either fantasized replacement or corporate denial.
+- **Continuous architecture as a living discipline** — application portfolios, technical debt, and the constant arbitration between strategy and execution.
+- **AI and human intelligence** — a conviction I've held since 2017: AI only has value if it frees up human time for what humans do best.
 
-- Enterprise Architecture
-- Continuous Architecture
-- Artificial Intelligence Strategy and Governance
-- Application Portfolio Management (APM)
-- Digital Transformation
-- Organizational Change and Technology Adoption
-- Information Systems Modernization
-- Technology Leadership and Decision-Making
+For the full picture of my background and engagements: [see my profile →](/en/profile/)
 
-[See my full profile →](/en/profil/)
+## Why this blog
 
-## Why This Blog?
+I refuse the binaries that dominate the debate — doomer versus boomer on AI, technical versus business, compliance versus strategy. They simplify to reassure, and they help no one decide.
 
-Technology is no longer just a technical matter. It shapes organizations, influences societies, transforms professions, and increasingly affects geopolitical balances.
+Here, I don't sell engagements and I don't hand down expert dogma. I share convictions drawn from the field, intuitions, and readings — as footholds to raise the level of debate and feed dialogue with peers. What I write isn't a truth to impose: it's an invitation to think what claims to be unthinkable, and to hand decision-making power back to those it belongs to.
 
-Through this blog, I share reflections, analyses, and practical insights on architecture, artificial intelligence, digital transformation, and the strategic decisions organizations must make in an increasingly uncertain world.
+Your reactions, disagreements and additions are welcome.
 
-My goal is not to promote the latest trend, but to help readers develop a clearer understanding of the forces at play and make more informed decisions.
-
-**Contact:** [laurence.poussard63@gmail.com](mailto:laurence.poussard63@gmail.com)
-
-**LinkedIn:** [Laurence Poussard](https://www.linkedin.com/in/laurence-poussard-76115162/)
+**Get in touch**: [laurence.poussard63@gmail.com](mailto:laurence.poussard63@gmail.com)
+**LinkedIn**: [Laurence Poussard](https://www.linkedin.com/in/laurence-poussard-76115162/)
