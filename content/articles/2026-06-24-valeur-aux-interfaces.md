@@ -121,7 +121,7 @@ Un architecte stratège. Présent en continu. Ancré dans le réel. Inscrit dans
 ### La série complète Decision Day 2026
 
 1. *Avant de déployer l'IA, avez-vous cartographié vos décisions ?* — [Lire l'article 1/3](/articles/2026-06-05-cartographier-decisions-avant-ia/)
-2. *Ce que l'IA fait à notre cerveau* — [Lire l'article 2/3](/articles/2026-06-05-ce-que-ia-fait-a-notre-cerveau/)
+2. *Ce que l'IA fait à notre cerveau* — [Lire l'article 2/3](/articles/2026-06-17-ce-que-ia-fait-a-notre-cerveau/)
 3. *La valeur est aux interfaces, pas dans la tech* — cet article
 
 ### Mes textes en lien

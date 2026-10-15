@@ -102,7 +102,7 @@ C'est le paradoxe que l'Architecture Continue cherche précisément à résoudre
 
 ### L'événement : Decision Day 2026
 
-- [Decision Day 2026](https://www.decisionday2026.com/**), organisé le 5 juin 2026 aux Invalides à Paris — journée de réflexion sur la gouvernance des décisions à l'ère de l'IA.
+- [Decision Day 2026](https://www.decisionday2026.com/), organisé le 5 juin 2026 aux Invalides à Paris — journée de réflexion sur la gouvernance des décisions à l'ère de l'IA.
 
 ### Les intervenants cités
 
