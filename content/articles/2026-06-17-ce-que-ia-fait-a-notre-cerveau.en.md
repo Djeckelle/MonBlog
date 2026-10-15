@@ -4,7 +4,7 @@ date: 2026-06-17
 description: "Decision Day 2026 series (2/3). Cognitive sovereignty is the real blind spot of AI transformation — and no governance committee is asking the question. Next article: why AI's value lies at the interfaces between silos, and what that means for the architect's role."
 tags: ["AI", "governance", "cognitive sovereignty", "Decision Day 2026", "IHEDN", "architecture", "Continuous Architecture"]
 draft: false
-categories: ["AI"]
+categories: ["IA"]
 ---
 
 *Decision Day 2026 series — Article 2/3*

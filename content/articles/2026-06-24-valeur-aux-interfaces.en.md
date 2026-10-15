@@ -4,7 +4,7 @@ date: 2026-06-24
 description: "Decision Day 2026 series (3/3). Why Conway's law explains the failure of AI programmes better than any technical benchmark — and what that changes for the enterprise architect's role."
 tags: ["AI", "architecture", "Conway's law", "governance", "Decision Day 2026", "Continuous Architecture", "strategic architect"]
 draft: false
-categories: ["AI"]
+categories: ["IA"]
 ---
 
 *Decision Day 2026 series — Article 3/3*
