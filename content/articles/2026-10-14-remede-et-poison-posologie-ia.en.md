@@ -32,7 +32,7 @@ For a long time, translators had to choose: *remedy* or *poison*. Jacques Derrid
 
 Two remarks before going further.
 
-First: the original pharmakon is a technology of thought that externalises a cognitive function. Twenty-five centuries later, we are replaying the scene with language models. I wrote about this in [what AI does to our brain](/articles/2026-06-17-ce-que-ia-fait-a-notre-cerveau.en/) : the crutch that becomes a leg.
+First: the original pharmakon is a technology of thought that externalises a cognitive function. Twenty-five centuries later, we are replaying the scene with language models. I wrote about this in [what AI does to our brain](/en/articles/2026-06-17-ce-que-ia-fait-a-notre-cerveau/) : the crutch that becomes a leg.
 
 Second, and most important: a pharmakon is not judged "by how it is used", as we too often repeat. **It is judged by dose, duration, interactions, and the patient it is given to.** This is not a question of morality. It is a question of dosage.
 
@@ -60,13 +60,13 @@ Taking back control does not mean refusing the molecule, nor claiming a total in
 
 If AI is a pharmakon, then AI governance is not a matter of bans and permissions. It is a matter of dosage. And every line of a patient information leaflet has its counterpart in architecture.
 
-- **The dose** is what we delegate to the machine, what we co-decide, what we exclude. [Map your decisions](/articles/2026-06-05-cartographier-decisions-avant-ia.en/) (in French) before deploying, not after.
+- **The dose** is what we delegate to the machine, what we co-decide, what we exclude. [Map your decisions](/en/articles/2026-06-05-cartographier-decisions-avant-ia/) (in French) before deploying, not after.
 - **The interactions** are the dependencies: between providers, between models, between agents, between regulations. A dependency map is a drug interaction chart. You do not read it to scare yourself; you read it to know what must never be mixed.
 - **The duration** is reassessment. An authorisation granted to an agent, a cost assumption, a model choice are only valid for a given context. The context moves, and so must the prescription. **An authorisation is not a state; it is a prescription to be renewed.**
 - **The contraindications** are the cases where data must never leave, where humans must never be taken out of the loop, where efficiency does not justify the risk.
 - **The withdrawal** is reversibility. An architecture you cannot exit is not a choice; it is an addiction.
 
-There is one last line, often forgotten on the leaflet: **the patient**. The same treatment does not have the same effect on every body. AI deployed in a fractured organisation does not repair the fractures; it amplifies them. Conway's law, once again: systems mirror the organisations that produce them. Bringing in the best tools without changing how people work together means speeding up one part of the chain and creating bottlenecks everywhere else. [Value lies at the interfaces](/articles/2026-06-24-valeur-aux-interfaces.en/) (in French), and that is where the side effects settle. Without organisational therapeutics, companies automate their own dysfunctions.
+There is one last line, often forgotten on the leaflet: **the patient**. The same treatment does not have the same effect on every body. AI deployed in a fractured organisation does not repair the fractures; it amplifies them. Conway's law, once again: systems mirror the organisations that produce them. Bringing in the best tools without changing how people work together means speeding up one part of the chain and creating bottlenecks everywhere else. [Value lies at the interfaces](/en/articles/2026-06-24-valeur-aux-interfaces/) (in French), and that is where the side effects settle. Without organisational therapeutics, companies automate their own dysfunctions.
 
 The pharmacist is not the one who decides whether to take the medicine. Nor the one who manufactures it. It is the one who knows the interactions, who knows at which dose the cure turns, who reads the prescription with a critical eye, and who does not hesitate to call the prescriber back when something is off.
 
@@ -118,9 +118,9 @@ So, in your organisation: does the leaflet exist? Who wrote it, who reads it, an
 
 ### Related writing (in French)
 
-- [Cartographier vos décisions avant l'IA](/articles/2026-06-05-cartographier-decisions-avant-ia.en/) (Decision Day 1/3)
-- [Ce que l'IA fait à notre cerveau](/articles/2026-06-17-ce-que-ia-fait-a-notre-cerveau.en/) (Decision Day 2/3)
-- [La valeur est aux interfaces](/articles/2026-06-24-valeur-aux-interfaces.en/) (Decision Day 3/3)
+- [Cartographier vos décisions avant l'IA](/en/articles/2026-06-05-cartographier-decisions-avant-ia/) (Decision Day 1/3)
+- [Ce que l'IA fait à notre cerveau](/en/articles/2026-06-17-ce-que-ia-fait-a-notre-cerveau/) (Decision Day 2/3)
+- [La valeur est aux interfaces](/en/articles/2026-06-24-valeur-aux-interfaces/) (Decision Day 3/3)
 - *Nous venons du chaos, l'IA de la logique* (2025): [on Amazon](https://amzn.eu/d/07jFAfN9)
 
 ---

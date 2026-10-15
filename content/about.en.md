@@ -26,7 +26,7 @@ Four threads run through what I write here:
 - **Continuous architecture as a living discipline** — application portfolios, technical debt, and the constant arbitration between strategy and execution.
 - **AI and human intelligence** — a conviction I've held since 2017: AI only has value if it frees up human time for what humans do best.
 
-For the full picture of my background and engagements: [see my profile →](/en/profile/)
+For the full picture of my background and engagements: [see my profile →](/en/profil/)
 
 ## Why this blog
 

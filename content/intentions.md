@@ -41,4 +41,4 @@ Si vous vous retrouvez dans ces lignes, si vous souhaitez contester un point, en
 **Un mot, une réaction, une idée à partager ?**
 
 * **En direct** : [laurence.poussard63@gmail.com](mailto:laurence.poussard63@gmail.com?subject=%5B%C3%89change%20%2F%20Manifeste%5D%20Rebondir%20sur%20vos%20id%C3%A9es)
-* **Sur les réseaux** : Retrouvez-moi sur [LinkedIn](https://www.linkedin.com/in/laurence-poussard/) pour prolonger la conversation et croiser nos retours d'expérience.
+* **Sur les réseaux** : Retrouvez-moi sur [LinkedIn](https://www.linkedin.com/in/laurence-poussard-76115162/) pour prolonger la conversation et croiser nos retours d'expérience.

@@ -41,4 +41,4 @@ If you connect with these lines, if you want to challenge a point, build upon an
 **A word, a reaction, an idea to share?**
 
 * **Direct mail**: [laurence.poussard63@gmail.com](mailto:laurence.poussard63@gmail.com?subject=%5BExchange%20%2F%20Manifesto%5D%20Feedback%20on%20your%20ideas)
-* **Social networks**: Connect with me on [LinkedIn](https://www.linkedin.com/in/laurence-poussard/) to extend the conversation and cross-reference our field experience.
+* **Social networks**: Connect with me on [LinkedIn](https://www.linkedin.com/in/laurence-poussard-76115162/) to extend the conversation and cross-reference our field experience.
