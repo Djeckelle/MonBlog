@@ -2,7 +2,7 @@
 title: "L'architecte d'entreprise, stratège du réel — pas constructeur de SI"
 date: 2026-03-15
 description: "En 2026, la polycrise n'est plus un contexte dans lequel on déploie un SI. Elle est devenue une variable d'architecture. Ce que cela change pour l'architecte — et pour les organisations qui acceptent d'en tirer les conséquences."
-tags: ["architecture", "continuous architecture", "polycrise", "souveraineté", "géopolitique", "IA"]
+tags: ["rôle de l'architecte", "Continuous Architecture", "souveraineté", "gouvernance du SI"]
 draft: false
 categories: ["Architecture"]
 ---

@@ -1,8 +1,8 @@
 ---
 title: "Et si l'IA rendait l'esprit à l'essentiel ?"
 date: 2026-09-26
-description: "Dans un podcast consacré au repos, loin de tout discours technologique, une coach en développement personnel parle de l'IA en deux phrases. Elles disent tout : l'IA peut soulager la charge mentale pour rendre aux humains leurs compétences premières. Et mieux travailler, c'est aussi être plus performant."
-tags: ["IA", "charge mentale", "bien-être", "créativité", "travail", "débat public"]
+description: "Et si l'IA servait d'abord à alléger la charge mentale ? Ce qu'elle peut rendre aux humains — attention, créativité, compétences premières — et à quelles conditions."
+tags: ["souveraineté cognitive", "organisation du travail", "débat public"]
 categories: ["IA"]
 draft: false
 cover:

@@ -1,21 +1,21 @@
 ---
 title: "Loi de Conway : quand les titres RH fragmentent le système avant le code"
 date: 2026-07-31
-description: "Architecte cloud, architecte IA : pourquoi accoler un titre à une technologie dilue la fonction d'architecte sans conférer la légitimité de l'expert. Une analyse à la lumière de la loi de Conway."
-tags: ["EnterpriseArchitecture", "ArchitectureEntreprise", "ContinuousArchitecture", "ConwaysLaw", "TeamTopologies", "TechLeadership", "Europe"]
+description: "Architecte cloud, architecte IA : accoler un titre à une technologie dilue la fonction d'architecte. La loi de Conway appliquée aux fiches de poste et à l'organisation."
+tags: ["loi de Conway", "rôle de l'architecte", "organisation du travail", "Continuous Architecture"]
 draft: false
 categories: ["Architecture"]
 
 cover:
     image: "/images/articles/dualitetech.png"
-    alt: "Role Schizophrenia"
+    alt: "Une clé en circuit imprimé posée devant l'ombre d'un système d'information fragmenté, entre serveurs, bases de données et code hérité"
     caption: "When the architect is but a shadow"
     relative: false
     hidden: false
 ---
 > **En bref**
 > - Le mouton à 5 pattes n'a jamais fait ses preuves
-> - L'architecture se pense dès l'oganisation et les fiche de poste
+> - L'architecture se pense dès l'organisation et les fiches de poste
 > - À l'ère de l'IA, l'erreur coûte plus cher : la vraie rareté n'est pas la maîtrise du modèle, c'est la connaissance du métier qu'on assiste.
 {{< imprimer >}}
 

@@ -1,12 +1,12 @@
 ---
 title: "Ce qui est déjà fabriqué est déjà payé"
 date: 2026-09-17
-description: "Green IT : une exigence non fonctionnelle environnementale qu'on m'a remise, et les trois mots qui la vidaient de sa portée. Dernier article d'une série de quatre sur le green IT et l'économie circulaire de l'IT — pourquoi la durée de vie du matériel est le vrai levier, et ce que coûte de ne pas préparer le terrain. (4/4)"
+description: "Green IT (4/4). L'empreinte du numérique se joue à la fabrication : durée de vie, réemploi et décommissionnement font de l'économie circulaire IT un sujet d'architecture."
 categories: ["Architecture"]
-tags: ["green IT", "économie circulaire", "architecture", "gouvernance", "CSRD", "Continuous Architecture"]
+tags: ["green IT", "sobriété numérique", "gouvernance du SI", "Continuous Architecture"]
 draft: false
 cover:
-    image: "/images/articles/green-it-4-Economie Circulaire-fr.jpg"
+    image: "/images/articles/green-it-4-economie-circulaire-fr.jpg"
     alt: "Barre représentant l'empreinte d'un équipement, divisée en un large segment fabrication et un petit segment usage ; l'exigence ne couvre que le segment usage, tandis que cinq leviers — durée de vie, réemploi, reconditionnement, mutualisation, décommissionnement — s'appliquent au segment fabrication"
     caption: "L'exigence ne regardait que le petit segment. Le grand était déjà payé, et c'est le seul sur lequel on peut encore agir."
     relative: false

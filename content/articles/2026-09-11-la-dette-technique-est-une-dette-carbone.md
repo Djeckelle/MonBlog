@@ -1,9 +1,9 @@
 ---
 title: "La dette technique est une dette carbone"
 date: 2026-09-07
-description: "Green IT : on demande à une DSI de mesurer son empreinte, et elle découvre qu'elle ne peut pas. Deuxième article d'une série de quatre — comment la dette d'information sur le patrimoine applicatif bloque simultanément l'obsolescence, le FinOps, la dette technique et le GreenOps, et pourquoi les directions RSE et les architectes doivent travailler ensemble. (2/4)"
+description: "Green IT (2/4). Sans référentiel applicatif fiable, impossible de mesurer l'empreinte carbone du SI : dette technique, FinOps, GreenOps et reporting RSE tombent ensemble."
 categories: ["Architecture"]
-tags: ["green IT", "dette technique", "architecture", "gouvernance", "patrimoine applicatif", "Continuous Architecture"]
+tags: ["green IT", "patrimoine applicatif", "gouvernance du SI", "Continuous Architecture"]
 draft: false
 cover:
     image: "/images/articles/green-it-2-dette-information-fr.jpg"

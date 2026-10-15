@@ -1,13 +1,13 @@
 ---
 title: "When the Unknown Pushes Us to Do Other People's Work"
 date: 2026-07-31
-description: "Faced with an organizational blind spot, everyone tends to fill it themselves. This seemingly harmless reflex has a measurable cost — and a precise cause: not knowing your own ecosystem."
-tags: ["OrganisationDuTravail", "Leadership", "TeamTopologies", "Gouvernance", "RolesEtResponsabilites", "Productivite"]
+description: "Role ambiguity pushes people to fill organisational gaps in others' place. A costly, well-documented reflex rooted in not knowing one's own ecosystem."
+tags: ["work organisation"]
 draft: false
-categories: ["Organisation"]
+categories: ["reflexion"]
 
 cover:
-    image: "/images/articles/Unknown-Pushes-Us-toDo-Other.jpg"
+    image: "/images/articles/travail-des-autres-ecosysteme.jpg"
     alt: "When the Unknown Pushes Us to Do Other People's Work"
     caption: "When the architect is but a shadow"
     relative: false
@@ -22,9 +22,7 @@ cover:
 
 {{< imprimer >}}
 
-## The Perception Trap
 
-# When the Unknown Pushes Us to Do Other People's Work
 
 There's a behavior found in almost every company, regardless of size or industry.
 

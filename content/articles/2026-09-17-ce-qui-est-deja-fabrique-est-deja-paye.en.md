@@ -1,12 +1,12 @@
 ---
 title: "What is already manufactured is already paid for"
 date: 2026-09-17
-description: "Green IT: an environmental non-functional requirement I was handed, and the three words that emptied it of its force. Last in a four-part series on green IT and the circular economy of IT — why hardware lifespan is the real lever, and what it costs not to prepare the ground. (4/4)"
+description: "Green IT (4/4). Most of IT's footprint comes from manufacturing: lifespan, reuse and decommissioning make the circular economy of IT an architecture issue."
 categories: ["Architecture"]
-tags: ["green IT", "circular economy", "architecture", "governance", "CSRD", "Continuous Architecture"]
+tags: ["green IT", "digital sobriety", "IT governance", "Continuous Architecture"]
 draft: false
 cover:
-    image: "/images/articles/green-it-4-Economie Circulaire-en.jpg"
+    image: "/images/articles/green-it-4-economie-circulaire-en.jpg"
     alt: "Bar showing the footprint of a device, split into a large manufacturing segment and a small usage segment; the requirement covers only the usage segment, while five levers — lifespan, reuse, refurbishment, pooling, decommissioning — apply to the manufacturing segment"
     caption: "The requirement looked only at the small segment. The large one was already paid for, and it is the only one still open to action."
     relative: false

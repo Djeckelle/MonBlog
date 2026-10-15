@@ -1,8 +1,8 @@
 ---
 title: "VivaTech 2026: what I saw struck me less than what it revealed"
 date: 2026-06-30
-description: "Ten days after VivaTech 2026, away from the noise of hot takes: what Europe's largest technology theatre shows — and above all what it doesn't. An architectural reading of wonder."
-tags: ["AI", "VivaTech", "sovereignty", "governance", "architecture", "access", "Europe"]
+description: "VivaTech 2026 through an enterprise architect's eyes: behind the wonder, AI access, governance and sovereignty. Europe's problem is execution, not intelligence."
+tags: ["sovereignty", "AI governance", "public debate"]
 draft: false
 categories: ["IA"]
 

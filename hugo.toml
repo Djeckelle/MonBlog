@@ -6,6 +6,10 @@ enableRobotsTXT = true
 buildDrafts = false
 buildFuture = false
 
+# SEO : retire les accents des URL générées (tags notamment)
+# « souveraineté » → /tags/souverainete/ au lieu de /tags/souverainet%C3%A9/
+removePathAccents = true
+
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
@@ -42,6 +46,18 @@ buildFuture = false
   TocOpen = false
   ShowLanguageSwitcher = true
   comments = true
+
+  # SEO : image de partage par défaut (LinkedIn, etc.) quand un article n'a pas de cover.
+  # Format 1200×630. La version anglaise est définie dans [languages.en.params].
+  images = ["/images/og-default.jpg"]
+
+  # SEO : vérification Google Search Console / Bing Webmaster Tools.
+  # Recommandé : vérifier le DOMAINE par un enregistrement DNS TXT chez OVH (rien à mettre ici).
+  # Si vous choisissez plutôt la vérification par balise HTML, décommentez et collez le code :
+  # [params.analytics.google]
+  #   SiteVerificationTag = "CODE-GOOGLE"
+  # [params.analytics.bing]
+  #   SiteVerificationTag = "CODE-BING"
 
   [[params.socialIcons]]
     name = "linkedin"
@@ -124,6 +140,7 @@ buildFuture = false
 
   [languages.en.params]
     description = "Enterprise architecture, AI, IS governance — analysis, manifestos and collective intelligence."
+    images = ["/images/og-default-en.jpg"]
 
   [languages.en.params.homeInfoParams]
     Title = "Laurence Poussard"

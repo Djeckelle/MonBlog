@@ -1,8 +1,8 @@
 ---
 title: "Cure and poison: AI dosage is an architecture decision"
 date: 2026-10-15
-description: "AI as both cure and poison: Plato's word is the right one, provided we take it seriously. With a pharmakon, the dose decides. And in an organisation, the dose is an architecture."
-tags: ["AI", "governance", "architecture", "sovereignty", "pharmakon"]
+description: "AI is a pharmakon, both cure and poison: the dose decides. And in an organisation, dosing AI is an architecture decision."
+tags: ["AI governance", "decision-making", "sovereignty"]
 categories: ["IA"]
 draft: false
 cover:

@@ -2,11 +2,11 @@
 title: "Intention stratégique × réalité anthropologique : le grand écart de l'IA"
 date: 2026-01-15
 description: "D'un côté, une superintelligence « humaniste » promise depuis les étages de la vision. De l'autre, des psychiatres qui documentent des délires nourris par les chatbots. Entre les deux, un écart que personne ne gouverne."
-tags: ["IA", "gouvernance", "santé mentale", "architecture", "anthropologie", "souveraineté"]
+tags: ["gouvernance de l'IA", "souveraineté", "débat public"]
 draft: false
 categories: ["reflexion"]
 cover:
-    image: "/images/articles/intention-strategique-X-realite-anthropologique.jpg"
+    image: "/images/articles/intention-strategique-realite-anthropologique.jpg"
     alt: "D'un côté la cité radieuse de la superintelligence humaniste, de l'autre le monde sombre de la psychose des chatbots, un regard humain à la jointure"
     caption: "Intention stratégique × réalité anthropologique — le grand écart de l'IA"
     relative: false

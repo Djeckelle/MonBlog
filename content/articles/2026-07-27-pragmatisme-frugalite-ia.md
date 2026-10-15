@@ -1,8 +1,8 @@
 ---
 title: "Le jusqu'au-boutisme de l'IA n'est pas une preuve d'audace"
 date: 2026-07-27
-description: "Avant de choisir un modèle, une grille de discernement en quatre questions. Ce que le AI Trends Report 2026 d'Informa Tech révèle, malgré lui, sur le coût réel de l'absence de méthode."
-tags: ["IA", "gouvernance", "architecture", "frugalité"]
+description: "Avant de choisir un modèle d'IA, quatre questions de discernement : besoin réel, maîtrise des données, choix du modèle, risque. Une méthode frugale pour gouverner l'IA."
+tags: ["gouvernance de l'IA", "sobriété numérique", "décision"]
 draft: false
 categories: ["IA"]
 cover:

@@ -1,8 +1,8 @@
 ---
 title: "What if AI gave the mind back to what matters?"
 date: 2026-09-26
-description: "On a podcast about rest, far from any technology talk, a personal-development coach speaks about AI in two sentences. They say it all: AI can lift the mental load so people can return to their core strengths. And working better also means performing better."
-tags: ["AI", "mental load", "well-being", "creativity", "work", "public debate"]
+description: "What if AI's first job were to lighten the mental load? What it can give back to people — attention, creativity, core skills — and on what conditions."
+tags: ["cognitive sovereignty", "work organisation", "public debate"]
 categories: ["IA"]
 draft: false
 cover:

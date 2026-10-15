@@ -1,9 +1,9 @@
 ---
 title: "AI is not the arsonist"
 date: 2026-09-09
-description: "Green IT: AI as firefighter and arsonist is the ambient narrative. Third in a four-part series — what the oil century taught us about arbitration criteria, how an AI use case enters the architecture value chain, and why the resource was never the problem. (3/4)"
+description: "Green IT (3/4). AI as firefighter or arsonist? The real issue is arbitration: treat each AI use case as an architecture decision, with ADRs and fitness functions."
 categories: ["IA", "Architecture"]
-tags: ["green IT", "AI", "governance", "architecture", "decision", "Continuous Architecture"]
+tags: ["green IT", "AI governance", "decision-making", "Continuous Architecture"]
 draft: false
 cover:
     image: "/images/articles/green-it-3-pyromane-arbitrage-en.jpg"

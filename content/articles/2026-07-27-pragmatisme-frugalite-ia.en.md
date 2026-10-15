@@ -1,8 +1,8 @@
 ---
 title: "AI Maximalism Is Not a Sign of Boldness"
 date: 2026-07-27
-description: "A four-question discernment framework to run before you pick a model. What the Informa Tech AI Trends Report 2026 unwittingly reveals about the real cost of skipping it."
-tags: ["AI", "governance", "architecture", "frugality"]
+description: "Before choosing an AI model, four discernment questions: real need, data maturity, model choice, risk. A frugal method for governing AI."
+tags: ["AI governance", "digital sobriety", "decision-making"]
 draft: false
 categories: ["IA"]
 cover:

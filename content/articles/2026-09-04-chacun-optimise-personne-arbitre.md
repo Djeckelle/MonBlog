@@ -1,9 +1,9 @@
 ---
 title: "Chacun optimise, personne n'arbitre"
 date: 2026-09-04
-description: "Green IT : un programme sobriété d'un côté, des projets qui déploient à tour de bras de l'autre. Premier article d'une série de quatre sur le green IT et l'économie circulaire de l'IT — le paradoxe des intentions parallèles, et pourquoi l'architecture d'entreprise est l'endroit où elles peuvent se rencontrer. (1/4)"
+description: "Green IT (1/4). Le PUE mesure l'efficacité de l'enveloppe, pas l'utilité du calcul. Pourquoi la sobriété numérique doit entrer dans le flux de valeur par l'architecture."
 categories: ["Architecture"]
-tags: ["green IT", "sobriété numérique", "architecture", "gouvernance", "économie circulaire", "Continuous Architecture"]
+tags: ["green IT", "sobriété numérique", "gouvernance du SI", "rôle de l'architecte", "Continuous Architecture"]
 draft: false
 
 cover:

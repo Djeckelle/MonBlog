@@ -2,7 +2,7 @@
 title: "Ce que vous construisez ne vous appartient pas"
 date: 2026-05-06
 description: "Petit voyage dans les étages d'une organisation qui paie cher pour aller lentement — et tout ce qu'elle gagnerait à faire autrement."
-tags: ["architecture", "SI", "IA", "gouvernance"]
+tags: ["gouvernance du SI", "organisation du travail"]
 draft: false
 categories: ["reflexion"]
 ---

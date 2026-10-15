@@ -1,9 +1,9 @@
 ---
 title: "Everyone optimises, no one arbitrates"
 date: 2026-09-04
-description: "Green IT: a sustainability programme on one side, projects rolling out hardware on the other. First in a four-part series on green IT and the circular economy of IT — the paradox of parallel intentions, and why enterprise architecture is where they can finally meet. (1/4)"
+description: "Green IT (1/4). PUE measures the efficiency of the envelope, not the usefulness of computing. Why digital sobriety must enter the value stream through architecture."
 categories: ["Architecture"]
-tags: ["green IT", "digital sobriety", "architecture", "governance", "circular economy", "Continuous Architecture"]
+tags: ["green IT", "digital sobriety", "IT governance", "architect's role", "Continuous Architecture"]
 draft: false
 cover:
     image: "/images/articles/green-it-arbitrage-en.jpg"

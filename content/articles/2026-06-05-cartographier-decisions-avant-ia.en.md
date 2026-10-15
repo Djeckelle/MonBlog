@@ -2,9 +2,9 @@
 title: "Before deploying AI, have you mapped your decisions?"
 date: 2026-06-05
 description: "Decision Day 2026 series (1/3). Why mapping decisions is the prerequisite no one wants to fund — and what the IHEDN method teaches us about AI governance. Next article: cognitive sovereignty as the blind spot of transformation."
-tags: ["AI", "governance", "architecture", "decision", "sovereignty", "Decision Day 2026", "Continuous Architecture", "IHEDN"]
+tags: ["AI governance", "decision-making", "Continuous Architecture", "Decision Day 2026"]
 draft: false
-categories: ["AI"]
+categories: ["IA"]
 cover:
     image: "/images/articles/decision-day-2026.jpg"
     alt: "Decision Day 2026 — War Room workshop on the governance of AI decisions"

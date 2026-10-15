@@ -1,8 +1,8 @@
 ---
 title: "Remède et poison : la posologie de l'IA est une décision d'architecture"
 date: 2026-10-15
-description: "L'IA, remède et poison à la fois : le mot de Platon est juste, à condition de le prendre au sérieux. Avec un pharmakon, c'est la dose qui décide. Et la dose, en entreprise, c'est une architecture."
-tags: ["IA", "gouvernance", "architecture", "souveraineté", "pharmakon"]
+description: "L'IA est un pharmakon, remède et poison à la fois : c'est la dose qui décide. Et dans une organisation, doser l'IA est une décision d'architecture."
+tags: ["gouvernance de l'IA", "décision", "souveraineté"]
 categories: ["IA"]
 draft: false
 cover:

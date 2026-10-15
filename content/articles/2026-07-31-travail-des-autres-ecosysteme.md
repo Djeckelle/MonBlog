@@ -1,22 +1,21 @@
 ---
 title: "Quand l'inconnu nous pousse à faire le travail des autres"
 date: 2026-07-31
-description: "Face à une zone d'ombre organisationnelle, chacun a tendance à la remplir lui-même. Ce réflexe, en apparence anodin, a un coût mesurable — et une cause précise : la méconnaissance de l'écosystème."
-tags: ["OrganisationDuTravail", "Leadership", "TeamTopologies", "Gouvernance", "RolesEtResponsabilites", "Productivite"]
+description: "Le flou de rôle pousse chacun à combler les zones d'ombre à la place des autres. Un réflexe coûteux, documenté par la recherche, né de la méconnaissance de l'écosystème."
+tags: ["organisation du travail"]
 draft: false
 categories: ["reflexion"]
 
 cover:
- image: "/images/articles/Unknown-Pushes-Us-toDo-Other.jpg"
- alt: "When the Unknown Pushes Us to Do Other People's Work"
-caption: "When the architect is but a shadow"
-relative: false
-hidden: false
+    image: "/images/articles/travail-des-autres-ecosysteme.jpg"
+    alt: "Quand l'inconnu nous pousse à faire le travail des autres"
+    caption: "Quand l'architecte n'est plus qu'une ombre"
+    relative: false
+    hidden: false
 ---
 
 *Face à une zone d'ombre organisationnelle, chacun a tendance à la remplir lui-même — et ce réflexe a un prix, mesurable.*
 
-## Le piège de la perception
 
 >**En bref**
 >- Le flou de rôle est, selon la recherche, le facteur de stress professionnel le plus coûteux
@@ -25,7 +24,6 @@ hidden: false
 
 {{< imprimer >}}
 
-# Quand l'inconnu nous pousse à faire le travail des autres
 
 Il existe un comportement que l'on retrouve dans presque toutes les entreprises, quelle que soit leur taille ou leur secteur.
 

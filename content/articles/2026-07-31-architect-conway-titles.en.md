@@ -1,14 +1,14 @@
 ---
 title: "Conway's Law: When HR Titles Fragment the System Before the Code Does"
 date: 2026-07-31
-description: "Cloud architect, AI architect: why attaching a title to a technology dilutes the architect's role without conferring legitimacy as an expert. An analysis through the lens of Conway's Law."
-tags: ["EnterpriseArchitecture", "ArchitectureEntreprise", "ContinuousArchitecture", "ConwaysLaw", "TeamTopologies", "TechLeadership", "Europe"]
+description: "Cloud architect, AI architect: tying a title to a technology dilutes the architect's role. Conway's law applied to job titles and organisation design."
+tags: ["Conway's law", "architect's role", "work organisation", "Continuous Architecture"]
 draft: false
 categories: ["Architecture"]
 
 cover:
     image: "/images/articles/dualitetech.png"
-    alt: "Role Schizophrenia"
+    alt: "A circuit-board key in front of the shadow of a fragmented information system, made of servers, databases and legacy code"
     caption: "When the architect is but a shadow"
     relative: false
     hidden: false

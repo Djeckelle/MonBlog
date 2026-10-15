@@ -2,7 +2,7 @@
 title: "When AI plays at scaring itself — and at making us believe"
 date: 2026-06-03
 description: "AI doomerism has the structure of a religious movement — but what it really reveals is a battle over governance and sovereignty. A response to Nirit Weiss-Blatt's piece on AI Panic."
-tags: ["AI", "governance", "sovereignty", "architecture", "public debate"]
+tags: ["AI governance", "sovereignty", "public debate"]
 draft: false
 categories: ["IA"]
 ---

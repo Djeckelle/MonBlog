@@ -1,8 +1,8 @@
 ---
 title: "Quand l'IA joue à se faire peur — et à faire croire"
-date: 2026-06-02
+date: 2026-06-03
 description: "Le doomerisme IA a la structure d'un mouvement religieux — mais ce qu'il révèle vraiment, c'est une bataille de gouvernance et de souveraineté. Réaction à l'article de Nirit Weiss-Blatt sur AI Panic."
-tags: ["IA", "gouvernance", "souveraineté", "architecture", "débat public"]
+tags: ["gouvernance de l'IA", "souveraineté", "débat public"]
 draft: false
 categories: ["IA"]
 ---

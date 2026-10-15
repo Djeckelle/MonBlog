@@ -1,9 +1,9 @@
 ---
 title: "Ce n'est pas l'IA qui est pyromane"
 date: 2026-09-09
-description: "Green IT : l'IA pompier et pyromane, c'est le discours ambiant. Troisième article d'une série de quatre — ce que le siècle du pétrole nous apprend des critères d'arbitrage, comment faire entrer un cas d'usage IA dans la chaîne de valeur de l'architecture, et pourquoi le problème n'a jamais été la ressource. (3/4)"
+description: "Green IT (3/4). IA pompier ou pyromane ? Le vrai sujet est l'arbitrage : instruire chaque cas d'usage IA comme une décision d'architecture, avec ADR et fitness functions."
 categories: ["IA", "Architecture"]
-tags: ["green IT", "IA", "gouvernance", "architecture", "décision", "Continuous Architecture"]
+tags: ["green IT", "gouvernance de l'IA", "décision", "Continuous Architecture"]
 draft: false
 cover:
     image: "/images/articles/green-it-3-pyromane-arbitrage-fr.jpg"

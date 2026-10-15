@@ -1,9 +1,9 @@
 ---
 title: "Technical debt is carbon debt"
 date: 2026-09-07
-description: "Green IT: an IT department is asked to measure its footprint, and discovers it cannot. Second in a four-part series — how information debt on the application portfolio simultaneously blocks obsolescence, FinOps, technical debt and GreenOps, and why CSR teams and architects need each other. (2/4)"
+description: "Green IT (2/4). Without a reliable application portfolio, IT cannot measure its carbon footprint: technical debt, FinOps, GreenOps and CSR reporting fail together."
 categories: ["Architecture"]
-tags: ["green IT", "technical debt", "architecture", "governance", "application portfolio", "Continuous Architecture"]
+tags: ["green IT", "application portfolio", "IT governance", "Continuous Architecture"]
 draft: false
 cover:
     image: "/images/articles/green-it-2-dette-information-en.jpg"

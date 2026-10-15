@@ -2,7 +2,7 @@
 title: "Value is at the interfaces, not in the tech"
 date: 2026-06-24
 description: "Decision Day 2026 series (3/3). Why Conway's law explains the failure of AI programmes better than any technical benchmark — and what that changes for the enterprise architect's role."
-tags: ["AI", "architecture", "Conway's law", "governance", "Decision Day 2026", "Continuous Architecture", "strategic architect"]
+tags: ["Conway's law", "architect's role", "AI governance", "Continuous Architecture", "Decision Day 2026"]
 draft: false
 categories: ["IA"]
 ---

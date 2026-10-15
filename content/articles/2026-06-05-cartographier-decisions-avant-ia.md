@@ -2,7 +2,7 @@
 title: "Avant de déployer l'IA, avez-vous cartographié vos décisions ?"
 date: 2026-06-05
 description: "Série Decision Day 2026 (1/3). Pourquoi la cartographie des décisions est le préalable que personne ne veut financer — et ce que la méthode IHEDN nous apprend de la gouvernance IA. Prochain article : la souveraineté cognitive comme angle mort de la transformation."
-tags: ["IA", "gouvernance", "architecture", "décision", "souveraineté", "Decision Day 2026", "Continuous Architecture", "IHEDN"]
+tags: ["gouvernance de l'IA", "décision", "Continuous Architecture", "Decision Day 2026"]
 draft: false
 categories: ["IA"]
 cover:
