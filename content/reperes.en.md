@@ -31,7 +31,7 @@ This dossier explores what traditional architectures fail to see, proposes the v
 
 A long, dense format — to read when you have time to think.
 
-[Read the dossier →](/dossiers/architecture-continue-polycrise-2026-en.html)
+[Discover the dossier →](/en/resources/continuous-architecture-dossier-2026/)
 
 ---
 
