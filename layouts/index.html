@@ -11,7 +11,7 @@
   {{ with site.Params.socialIcons }}
   <div class="lp-home-social">
     {{ range . }}
-    <a href="{{ .url }}" target="_blank" rel="noopener">{{ .name | title }}</a>
+    <a href="{{ .url }}" target="_blank" rel="noopener">{{ if eq .name "linkedin" }}LinkedIn{{ else }}{{ .name | title }}{{ end }}</a>
     {{ end }}
   </div>
   {{ end }}

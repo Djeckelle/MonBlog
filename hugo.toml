@@ -93,6 +93,9 @@ removePathAccents = true
   [languages.fr.params]
     description = "Architecture d'entreprise, IA, gouvernance du SI — convictions, manifestes et partage d'expérience."
 
+  [languages.fr.params.footer]
+    text = "[Mentions légales](/mentions-legales/)"
+
   [languages.fr.params.homeInfoParams]
     Title = "Laurence Poussard"
     Content = """Architecte d'entreprise. Experte de la <em>Continuous Architecture</em>.<br><br>Ce site est un espace de partage d'expériences et de retours du terrain, pour <strong>insuffler du sens, élever le débat et nourrir l'intelligence collective</strong> autour de nos choix technologiques.<br><br><strong>🚀 Par où commencer ?</strong><br>• <a href="/about/">Qui je suis</a> — mon parcours, mes valeurs et ma vision<br>• <a href="/dossiers/architecture-continue-polycrise-2026.html">Le dossier de fond</a> — <em>l'Architecture Continue face à l'imprévisible</em><br>• <a href="/manifeste/">Le Manifeste</a> — <em>les 6 habitudes d'un SI efficace</em><br>• <a href="/intentions/">Convictions & Dialogues</a> — <em>pourquoi ce partage et comment échanger</em>"""
@@ -142,6 +145,9 @@ removePathAccents = true
   [languages.en.params]
     description = "Enterprise architecture, AI, IS governance — analysis, manifestos and collective intelligence."
     images = ["/images/og-default-en.jpg"]
+
+  [languages.en.params.footer]
+    text = "[Legal notice (FR)](/mentions-legales/)"
 
   [languages.en.params.homeInfoParams]
     Title = "Laurence Poussard"

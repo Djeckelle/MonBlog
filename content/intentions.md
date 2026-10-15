@@ -16,7 +16,7 @@ Si ces idées résonnent en vous, mon souhait est avant tout de **créer un espa
 
 ## Ce que je cherche à diffuser et faire vivre
 
-Plutôt que d'imposer des règles, je cherche à **insufler des réflexions et à ouvrir des espaces d'échange**, que ce soit au sein de mon organisation ou avec des pairs qui partagent ces questionnements :
+Plutôt que d'imposer des règles, je cherche à **insuffler des réflexions et à ouvrir des espaces d'échange**, que ce soit au sein de mon organisation ou avec des pairs qui partagent ces questionnements :
 
 * **Mettre en débat nos habitudes SI** : Interroger nos pratiques (cadrage, gouvernance de l'IA, transmission, sobriété) sans dogmatisme, mais avec l'envie d'être utiles et efficaces.
 * **Croiser les regards Métier & Technique** : Utiliser ces réflexions comme un prétexte pour se parler, vérifier qu'on s'est compris et casser les barrières d'incompréhension.

@@ -1,5 +1,6 @@
 ---
 title: "About"
+description: "Laurence Poussard, enterprise architect and Continuous Architecture trainer: background, values and what drives this site on AI, IT and governance."
 hidemeta: true
 ---
 

@@ -183,10 +183,11 @@ Et vous : qu'est-ce que l'IA vous a déjà enlevé de la tête ? Et ce temps-là
 - Série Green IT — sur l'empreinte du numérique et l'effet rebond :
   - Article 1/4 : *Chacun optimise, personne n'arbitre* → [/articles/2026-09-04-chacun-optimise-personne-arbitre/](/articles/2026-09-04-chacun-optimise-personne-arbitre/)
   - Article 2/4 : *La dette technique est une dette carbone* → [/articles/2026-09-11-la-dette-technique-est-une-dette-carbone/](/articles/2026-09-11-la-dette-technique-est-une-dette-carbone/)
-  - Article 3/4 à venir : *L'IA pompier et pyromane* — comment distinguer un gain net d'un déplacement d'impact
-- Sur le retour sur investissement de l'IA et ce qui le précède : *VivaTech 2026 : ce que ça révèle* et Decision Day 2026, article 1/3 : *Cartographier vos décisions avant l'IA* → [/articles/](/articles/)
-- *Intention stratégique × réalité anthropologique* (janvier 2026) — sur la « superintelligence humaniste » et ce que l'humanisme veut dire quand on parle d'IA → [/articles/](/articles/)
-- Série Decision Day 2026, article 2/3 : *Ce que l'IA fait à notre cerveau* → [/articles/](/articles/)
+  - Article 3/4 : *Ce n'est pas l'IA qui est pyromane* → [/articles/2026-09-09-ce-n-est-pas-l-ia-qui-est-pyromane/](/articles/2026-09-09-ce-n-est-pas-l-ia-qui-est-pyromane/)
+  - Article 4/4 : *Ce qui est déjà fabriqué est déjà payé* → [/articles/2026-09-17-ce-qui-est-deja-fabrique-est-deja-paye/](/articles/2026-09-17-ce-qui-est-deja-fabrique-est-deja-paye/)
+- Sur le retour sur investissement de l'IA et ce qui le précède : *VivaTech 2026 : ce que ça révèle* → [/articles/2026-06-30-vivatech-ce-que-ca-revele/](/articles/2026-06-30-vivatech-ce-que-ca-revele/) et Decision Day 2026, article 1/3 : *Cartographier vos décisions avant l'IA* → [/articles/2026-06-05-cartographier-decisions-avant-ia/](/articles/2026-06-05-cartographier-decisions-avant-ia/)
+- *Intention stratégique × réalité anthropologique* (janvier 2026) — sur la « superintelligence humaniste » et ce que l'humanisme veut dire quand on parle d'IA → [/articles/2026-01-15-intention-strategique-realite-anthropologique/](/articles/2026-01-15-intention-strategique-realite-anthropologique/)
+- Série Decision Day 2026, article 2/3 : *Ce que l'IA fait à notre cerveau* → [/articles/2026-06-17-ce-que-ia-fait-a-notre-cerveau/](/articles/2026-06-17-ce-que-ia-fait-a-notre-cerveau/)
 - *Nous venons du chaos, l'IA de la logique* (2025) → [Le livre](https://amzn.eu/d/07jFAfN9)
 
 ---

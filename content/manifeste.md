@@ -103,8 +103,8 @@ Ce qu'on récupère collectivement : du temps, de l'énergie, de la confiance, d
 
 <figure>
   <img src="/images/resources/Manifeste-SI-Efficace.png" 
-       alt="Poster du Manifteste">
-  <figcaption> Les 6 Habitudes d'un Si efficace </figcaption>
+       alt="Poster du manifeste Les 6 habitudes d'un SI efficace">
+  <figcaption> Les 6 habitudes d'un SI efficace </figcaption>
 </figure>
 
 [Télécharger le manifeste (PDF)](/pdfs/manifeste-si-efficace.pdf)

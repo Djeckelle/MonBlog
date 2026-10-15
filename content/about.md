@@ -1,5 +1,6 @@
 ---
 title: "À propos"
+description: "Laurence Poussard, architecte d'entreprise et formatrice Continuous Architecture : parcours, valeurs et ce qui fonde ce site sur l'IA, le SI et la gouvernance."
 hidemeta: true
 ---
 
