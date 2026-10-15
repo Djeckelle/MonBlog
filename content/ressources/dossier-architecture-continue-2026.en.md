@@ -25,7 +25,7 @@ The dossier is designed as a working tool, not an article to skim. It covers:
 - **The value loop** — The four stages of the strategic architect's practice: capture, translate, structure, learn
 - **The dialogue zone** — How Continuous Architecture concretely connects the strategic layer and the execution layer
 - **Six principles** for a living practice, applicable at the scale of a large organisation
-- **A maturity radar** with 2026 field observations — where large French companies really stand
+- **A maturity radar** in orders of magnitude from field observations — where large organisations really stand
 - **A map** of seven critical geopolitical risks, their nature, their impact, and the appropriate architectural response
 - **Three governance changes** executive committees need to move from displayed compliance to real resilience
 - **Seven questions** to put to your next executive committee — the ones that make the decision possible and accountable

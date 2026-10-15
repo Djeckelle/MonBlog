@@ -52,6 +52,10 @@ removePathAccents = true
   # Format 1200×630. La version anglaise est définie dans [languages.en.params].
   images = ["/images/og-default.jpg"]
 
+  # Mesure d'audience GoatCounter (sans cookie). Code du compte créé sur goatcounter.com.
+  # Si vous changez de code, pensez aussi aux deux fichiers de static/dossiers/.
+  goatcounter = "laurencepoussard"
+
   # SEO : vérification Google Search Console / Bing Webmaster Tools.
   # Recommandé : vérifier le DOMAINE par un enregistrement DNS TXT chez OVH (rien à mettre ici).
   # Si vous choisissez plutôt la vérification par balise HTML, décommentez et collez le code :
@@ -98,6 +102,7 @@ removePathAccents = true
 
   [languages.fr.params.homeInfoParams]
     Title = "Laurence Poussard"
+    Promesse = "J'écris pour les décideurs, architectes et managers qui sentent que les discours dominants sur l'IA et le SI ne suffisent plus. Ni recettes ni prophéties : du contexte, des angles morts, et de quoi décider."
     Content = """Architecte d'entreprise. Experte de la <em>Continuous Architecture</em>.<br><br>Ce site est un espace de partage d'expériences et de retours du terrain, pour <strong>insuffler du sens, élever le débat et nourrir l'intelligence collective</strong> autour de nos choix technologiques.<br><br><strong>🚀 Par où commencer ?</strong><br>• <a href="/about/">Qui je suis</a> — mon parcours, mes valeurs et ma vision<br>• <a href="/ressources/dossier-architecture-continue-2026/">Le dossier de fond</a> — <em>l'Architecture Continue face à l'imprévisible</em><br>• <a href="/manifeste/">Le Manifeste</a> — <em>les 6 habitudes d'un SI efficace</em><br>• <a href="/intentions/">Convictions & Dialogues</a> — <em>pourquoi ce partage et comment échanger</em>"""
 
 # ---------- MENU FRANÇAIS ----------
@@ -109,9 +114,9 @@ removePathAccents = true
     weight = 10
 
   [[languages.fr.menu.main]]
-    identifier = "reperes"
-    name = "Repères"
-    url = "/reperes/"
+    identifier = "ressources"
+    name = "Ressources"
+    url = "/ressources/"
     weight = 20
 
   [[languages.fr.menu.main]]
@@ -147,10 +152,11 @@ removePathAccents = true
     images = ["/images/og-default-en.jpg"]
 
   [languages.en.params.footer]
-    text = "[Legal notice (FR)](/mentions-legales/)"
+    text = "[Legal notice](/en/legal-notice/)"
 
   [languages.en.params.homeInfoParams]
     Title = "Laurence Poussard"
+    Promesse = "I write for leaders, architects and managers who sense that the dominant narratives on AI and IT are no longer enough. Neither recipes nor prophecies: context, blind spots, and what you need to decide."
     Content = """Enterprise Architect. <em>Continuous Architecture</em> practitioner.<br><br>This site is a space for sharing field experience and insights, aiming to <strong>bring meaning, elevate the debate and foster collective intelligence</strong> around our tech choices.<br><br><strong>🚀 Where to start?</strong><br>
     • <a href="/en/about/">Who I am</a> — my background, values and vision<br>
     • <a href="/en/resources/continuous-architecture-dossier-2026/">The in-depth dossier</a> — <em>Continuous Architecture facing the unpredictable</em><br>
@@ -166,9 +172,9 @@ removePathAccents = true
     weight = 10
 
   [[languages.en.menu.main]]
-    identifier = "reperes"
-    name = "Compass"
-    url = "/en/compass/"
+    identifier = "ressources"
+    name = "Resources"
+    url = "/en/resources/"
     weight = 20
 
   [[languages.en.menu.main]]

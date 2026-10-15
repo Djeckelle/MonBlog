@@ -1,0 +1,12 @@
+{{- /*
+  extend_head.html
+  Inclus automatiquement par PaperMod dans le <head> de chaque page.
+  Ici : mesure d'audience GoatCounter, sans cookie, uniquement en production
+  (rien n'est envoyé quand vous testez avec hugo server).
+  Le code du compte se règle dans hugo.toml : [params] goatcounter = "..."
+*/ -}}
+{{- with site.Params.goatcounter }}
+{{- if hugo.IsProduction }}
+<script data-goatcounter="https://{{ . }}.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+{{- end }}
+{{- end }}

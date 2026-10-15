@@ -176,9 +176,9 @@ I have no recipe, and I have not yet seen an organisation bring an environmental
 
 - Article 1/4: *Everyone optimises, no one arbitrates* → [/en/articles/2026-09-04-chacun-optimise-personne-arbitre/](/en/articles/2026-09-04-chacun-optimise-personne-arbitre/)
 - Article 2/4: *Technical debt is carbon debt* → [/en/articles/2026-09-11-la-dette-technique-est-une-dette-carbone/](/en/articles/2026-09-11-la-dette-technique-est-une-dette-carbone/)
-- *Before deploying AI, have you mapped your decisions?* (June 2026, in French) → [/articles/2026-06-05-cartographier-decisions-avant-ia/](/articles/2026-06-05-cartographier-decisions-avant-ia/)
+- *Before deploying AI, have you mapped your decisions?* (June 2026) → [/en/articles/2026-06-05-cartographier-decisions-avant-ia/](/en/articles/2026-06-05-cartographier-decisions-avant-ia/)
 - *Nous venons du chaos, l'IA de la logique* (2025, in French) → [The book](https://amzn.eu/d/07jFAfN9)
-- Report: *Continuous Architecture facing the unpredictable (2026, in French)* → [/dossiers/architecture-continue-polycrise-2026.html](/dossiers/architecture-continue-polycrise-2026.html)
+- Report: *Continuous Architecture facing the unpredictable (2026)* → [/en/resources/continuous-architecture-dossier-2026/](/en/resources/continuous-architecture-dossier-2026/)
 
 ---
 

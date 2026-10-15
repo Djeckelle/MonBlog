@@ -24,7 +24,7 @@ Le dossier est conçu comme un objet de travail, pas un article à parcourir dis
 - **La boucle de valeur** — Les quatre temps de la pratique de l'architecte stratège : capter, traduire, structurer, apprendre
 - **La zone de dialogue** — Comment l'Architecture Continue articule concrètement la couche stratégique et la couche d'exécution
 - **Six principes** d'une pratique vivante, déclinables à l'échelle d'une grande organisation
-- **Un radar de maturité** avec les chiffres terrain 2026 — où en sont vraiment les grandes entreprises françaises
+- **Un radar de maturité** en ordres de grandeur issus du terrain — où en sont vraiment les grandes organisations
 - **Une cartographie** des sept risques géopolitiques critiques, leur nature, leur impact, et la réponse architecturale appropriée
 - **Trois évolutions de gouvernance** nécessaires en CODIR pour passer de la conformité affichée à la résilience réelle
 - **Sept questions** à poser au prochain CODIR — celles qui rendent la décision possible et responsable

@@ -6,8 +6,6 @@ tags: ["gouvernance du SI", "organisation du travail"]
 draft: false
 categories: ["reflexion"]
 ---
-# Ce que vous construisez ne vous appartient pas
-
 *Petit voyage dans les étages d'une organisation qui paie cher pour aller lentement — et tout ce qu'elle gagnerait à faire autrement*
 
 

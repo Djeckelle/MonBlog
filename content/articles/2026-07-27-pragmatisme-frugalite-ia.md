@@ -13,9 +13,9 @@ cover:
     hidden: false
 ---
 >**En bref**
-> - D'un côté la promesse d'une « superintelligence humaniste », de l'autre des délires nourris par les chatbots : le même objet technique, vu de deux étages opposés.
-> - Entre l'intention affichée et la réalité vécue, il y a la dette d'exécution — et elle se paie ici en santé mentale.
-> - La vraie question n'est pas « l'IA sera-t-elle humaniste ? » mais « qui tient l'écart entre l'intention et ses effets réels ? ».
+> - « De l'IA partout, tout de suite » n'est pas de l'audace : c'est du jusqu'au-boutisme, qui prend les habits de la nécessité stratégique pour éviter la seule question qui compte — en a-t-on réellement besoin ?
+> - Avant de choisir un outil, quatre questions, dans l'ordre : ai-je besoin d'un LLM ? Est-ce que je maîtrise mon besoin, mes processus et mes données ? Quel modèle pour ce contexte ? Quel risque suis-je prête à prendre ?
+> - Le *AI Trends Report 2026* d'Informa Tech le confirme malgré lui : fin du modèle unique, primauté de l'intention métier, fraudes par deepfake à 25 millions de dollars, consommation électrique des data centres appelée à plus que doubler d'ici 2030.
 
 {{< imprimer >}}
 

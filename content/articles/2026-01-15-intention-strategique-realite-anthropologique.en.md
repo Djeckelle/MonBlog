@@ -122,7 +122,7 @@ I'd rather press the button now.
 ### Related writing
 
 - *Nous venons du chaos, l'IA de la logique* (2025, in French) → [The book](https://amzn.eu/d/07jFAfN9)
-- Report: *Continuous Architecture facing the unpredictable (2026, in French)* → [/dossiers/architecture-continue-polycrise-2026-en.html](/dossiers/architecture-continue-polycrise-2026-en.html)
+- Report: *Continuous Architecture facing the unpredictable (2026)* → [/en/resources/continuous-architecture-dossier-2026/](/en/resources/continuous-architecture-dossier-2026/)
 - Manifesto: *Six habits of an effective information system* → [/en/manifesto/](/en/manifesto/)
 
 ---

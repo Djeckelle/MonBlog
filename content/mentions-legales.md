@@ -25,10 +25,11 @@ Le nom de domaine est enregistré auprès d'**OVH SAS**, 2 rue Kellermann, 59100
 
 ## Données personnelles et cookies
 
-Ce site ne dépose aucun cookie de mesure d'audience ou de publicité, et ne collecte aucune donnée personnelle par lui-même. Il n'y a ni formulaire, ni newsletter : le suivi des publications se fait par flux RSS, sans inscription.
+Ce site ne dépose lui-même aucun cookie et ne contient aucun outil publicitaire. Il n'y a ni formulaire, ni newsletter : le suivi des publications se fait par flux RSS, sans inscription.
 
-Deux services tiers peuvent toutefois être sollicités lors de la consultation :
+Trois services tiers peuvent être sollicités lors de la consultation :
 
+- **La mesure d'audience** repose sur GoatCounter, un outil open source qui ne dépose pas de cookie. Il compte les pages vues et en tire des statistiques agrégées (pages lues, site d'origine, navigateur…) ; selon son éditeur, il ne conserve ni l'adresse IP ni d'autre donnée permettant d'identifier un visiteur. Il sert uniquement à savoir quels contenus sont lus. Les bloqueurs de publicité le désactivent souvent, et c'est très bien ainsi.
 - **Les commentaires** en bas des articles reposent sur Giscus et GitHub Discussions. Laisser un commentaire suppose un compte GitHub et relève des conditions de GitHub.
 - **Le dossier en ligne et la page de profil** chargent leurs polices de caractères depuis Google Fonts, ce qui transmet l'adresse IP du visiteur à Google.
 

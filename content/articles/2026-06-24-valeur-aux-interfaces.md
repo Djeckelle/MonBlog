@@ -132,6 +132,6 @@ Un architecte stratège. Présent en continu. Ancré dans le réel. Inscrit dans
 
 ---
 
-*Vos réactions, désaccords, compléments d'information sont bienvenus. Écrivez-moi à [contact@laurence-poussard.com](mailto:laurence.poussard63@gmail.com).*
+*Vos réactions, désaccords, compléments d'information sont bienvenus. Écrivez-moi à [laurence.poussard63@gmail.com](mailto:laurence.poussard63@gmail.com).*
 
 #DecisionDay2026 #ArchitecteStratège #LoiDeConway #GouvernanceIA #ArchitectureContinue #ValeurAuxInterfaces

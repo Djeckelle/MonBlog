@@ -8,7 +8,7 @@ Le manifeste *Les 6 habitudes d'un SI efficace* en version PDF, libre de circula
 
 <figure>
   <img src="/images/resources/Manifeste-SI-Efficace.png" 
-       alt="Poster du Manifeste">
+       alt="Poster du manifeste Les 6 habitudes d'un SI efficace">
   <figcaption>Les 6 habitudes d'un SI efficace.</figcaption>
 </figure>
 
@@ -17,4 +17,4 @@ Le manifeste *Les 6 habitudes d'un SI efficace* en version PDF, libre de circula
 
 Si vous tenez ces habitudes — à votre niveau, dans votre rôle, avec vos contraintes — dites-le. Reprenez-le, partagez-le, signez-le, contestez-le si vous le voulez, mais surtout : faites-en quelque chose qui circule.
 
-**Pour signer ou réagir** : commentez sous le post LinkedIn de publication, ou écrivez à [contact@laurence-poussard.com](mailto:contact@laurence-poussard.com).
+**Pour signer ou réagir** : commentez sous le post LinkedIn de publication, ou écrivez à [laurence.poussard63@gmail.com](mailto:laurence.poussard63@gmail.com).

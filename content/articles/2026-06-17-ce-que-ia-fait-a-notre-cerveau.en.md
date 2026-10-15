@@ -121,7 +121,7 @@ I was already writing that *to choose is also to give up*. Decision Day gave me,
 
 - *Nous venons du chaos, l'IA de la logique* — Laurence Poussard, 2025 (in French). [Available on Amazon](https://amzn.eu/d/07jFAfN9)
 - *Before deploying AI, have you mapped your decisions?* — article 1/3 of this series. [Read the article](/en/articles/2026-06-05-cartographier-decisions-avant-ia/)
-- *Continuous Architecture Facing the Unpredictable (2026)* — strategic analysis dossier (in French). [Consult the dossier](/dossiers/architecture-continue-polycrise-2026.html)
+- *Continuous Architecture Facing the Unpredictable (2026)* — strategic analysis dossier. [Consult the dossier](/en/resources/continuous-architecture-dossier-2026/)
 
 ### Conceptual frameworks
 

@@ -4,6 +4,7 @@ date: 2026-07-31
 description: "Cloud architect, AI architect: tying a title to a technology dilutes the architect's role. Conway's law applied to job titles and organisation design."
 tags: ["Conway's law", "architect's role", "work organisation", "Continuous Architecture"]
 draft: false
+translationKey: "conway-titres-rh"
 categories: ["Architecture"]
 
 cover:

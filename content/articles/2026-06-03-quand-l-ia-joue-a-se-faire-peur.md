@@ -140,4 +140,4 @@ C'est pour ça que j'écris. Pas pour rassurer. Pas pour faire peur. **Pour rend
 
 ---
 
-*Vos réactions, désaccords, compléments d'information sont bienvenus. Écrivez-moi à [contact@laurence-poussard.com](mailto:contact@laurence-poussard.com).*
+*Vos réactions, désaccords, compléments d'information sont bienvenus. Écrivez-moi à [laurence.poussard63@gmail.com](mailto:laurence.poussard63@gmail.com).*

@@ -411,3 +411,58 @@ code {
 @media print {
   .lp-rss-btn { display: none !important; }
 }
+
+/* ============================
+   ACCUEIL — Promesse de lecture + derniers articles
+   ============================ */
+
+.lp-home-promesse {
+  margin: 0 0 1rem;
+  padding-left: .9rem;
+  border-left: 3px solid #D4AF37;
+  color: var(--content);
+  font-style: italic;
+  font-size: 1.05rem;
+}
+
+.lp-recents { margin: 3rem 0 1rem; }
+.lp-recents-titre {
+  margin: 0 0 1rem;
+  color: var(--primary);
+  font-size: 1.3rem;
+}
+.lp-recent {
+  display: block;
+  padding: 1rem 0;
+  border-bottom: 1px solid var(--border);
+  text-decoration: none;
+}
+.lp-recent-date {
+  display: block;
+  color: var(--secondary);
+  font-size: .8rem;
+  letter-spacing: .02em;
+}
+.lp-recent-titre {
+  display: block;
+  margin: .2rem 0 .3rem;
+  color: var(--primary);
+  font-weight: 600;
+  font-size: 1.08rem;
+}
+.lp-recent:hover .lp-recent-titre { color: var(--secondary); }
+.lp-recent-desc {
+  display: block;
+  color: var(--content);
+  opacity: .82;
+  font-size: .92rem;
+}
+.lp-recents-tous {
+  display: inline-block;
+  margin-top: 1rem;
+  color: var(--primary);
+  font-size: .9rem;
+  font-weight: 600;
+  text-decoration: none;
+}
+.lp-recents-tous:hover { color: var(--secondary); }

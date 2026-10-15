@@ -147,7 +147,7 @@ If you do it differently, or if you have tried and it did not hold, write to me.
 - Article 2/4: *Technical debt is carbon debt* → [/en/articles/2026-09-11-la-dette-technique-est-une-dette-carbone/](/en/articles/2026-09-11-la-dette-technique-est-une-dette-carbone/)
 - Article 3/4: *AI is not the arsonist* → [/en/articles/2026-09-09-ce-n-est-pas-l-ia-qui-est-pyromane/](/en/articles/2026-09-09-ce-n-est-pas-l-ia-qui-est-pyromane/)
 - *Nous venons du chaos, l'IA de la logique* (2025, in French) → [The book](https://amzn.eu/d/07jFAfN9)
-- Report: *Continuous Architecture facing the unpredictable (2026, in French)* → [/dossiers/architecture-continue-polycrise-2026.html](/dossiers/architecture-continue-polycrise-2026.html)
+- Report: *Continuous Architecture facing the unpredictable (2026)* → [/en/resources/continuous-architecture-dossier-2026/](/en/resources/continuous-architecture-dossier-2026/)
 
 ---
 

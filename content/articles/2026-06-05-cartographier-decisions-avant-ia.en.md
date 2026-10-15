@@ -124,8 +124,8 @@ This is the paradox that Continuous Architecture seeks precisely to resolve: not
 ### Related writing
 
 - *Nous venons du chaos, l'IA de la logique* — Laurence Poussard, 2025 (in French). [Available on Amazon](https://amzn.eu/d/07jFAfN9)
-- *The enterprise architect, strategist of the real — not an IS builder* — a March 2026 article posing the same question from a geopolitical angle (in French). [Read the article](/articles/2026-03-15-architecte-stratege-du-reel/)
-- *Continuous Architecture Facing the Unpredictable (2026)* — full strategic analysis dossier (in French). [Consult the dossier](/dossiers/architecture-continue-polycrise-2026.html)
+- *The enterprise architect, strategist of the real — not an IS builder* — a March 2026 article posing the same question from a geopolitical angle. [Read the article](/en/articles/2026-03-15-architecte-stratege-du-reel/)
+- *Continuous Architecture Facing the Unpredictable (2026)* — full strategic analysis dossier. [Consult the dossier](/en/resources/continuous-architecture-dossier-2026/)
 
 ---
 

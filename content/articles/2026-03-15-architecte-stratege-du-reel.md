@@ -49,9 +49,9 @@ C'est un sujet de direction générale et de DRH autant que de DSI. Parce que ce
 
 ## Pour aller plus loin
 
-J'ai produit un dossier d'analyse complet sur ce sujet — *L'Architecture Continue face à l'imprévisible : 2026*. Il développe en détail la boucle de valeur de l'architecte stratège, les six principes d'une pratique vivante, un radar de maturité avec les chiffres terrain pour 2026, une cartographie des sept risques géopolitiques critiques et leurs réponses d'architecture, et les sept questions à poser au prochain CODIR.
+J'ai produit un dossier d'analyse complet sur ce sujet — *L'Architecture Continue face à l'imprévisible : 2026*. Il développe en détail la boucle de valeur de l'architecte stratège, les six principes d'une pratique vivante, un radar de maturité en ordres de grandeur issus du terrain, une cartographie des sept risques géopolitiques critiques et leurs réponses d'architecture, et les sept questions à poser au prochain CODIR.
 
-[**Télécharger le dossier complet (HTML, ~15 min de lecture)**](/dossiers/architecture-continue-polycrise-2026.html)
+[**Découvrir le dossier (~15 min de lecture)**](/ressources/dossier-architecture-continue-2026/)
 
 Le dossier est conçu comme un objet de travail : sommaire latéral, sections interactives, fitness functions géostratégiques, références. Il s'adresse aux architectes, DSI, DRH et membres de CODIR qui veulent passer d'une lecture passive à une pratique structurée.
 

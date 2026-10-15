@@ -5,6 +5,7 @@
   {{ with site.Params.homeInfoParams }}
   <header class="lp-home-hero">
     <h1 class="lp-home-titre">{{ .Title }}</h1>
+    {{ with .Promesse }}<p class="lp-home-promesse">{{ . }}</p>{{ end }}
     <p class="lp-home-accroche">{{ .Content | safeHTML }}</p>
   </header>
   {{ end }}
@@ -45,6 +46,22 @@
       </a>
     {{ end }}
   </div>
+
+  {{/* ---------- DERNIERS ARTICLES (les 3 plus récents de la langue courante) ---------- */}}
+  {{ $recents := first 3 (where site.RegularPages "Section" "articles").ByDate.Reverse }}
+  {{ with $recents }}
+  <section class="lp-recents">
+    <h2 class="lp-recents-titre">{{ if eq site.Language.Lang "en" }}Latest articles{{ else }}Derniers articles{{ end }}</h2>
+    {{ range . }}
+    <a class="lp-recent" href="{{ .RelPermalink }}">
+      <span class="lp-recent-date">{{ if eq site.Language.Lang "en" }}{{ .Date | time.Format "January 2, 2006" }}{{ else }}{{ .Date | time.Format ":date_long" }}{{ end }}</span>
+      <span class="lp-recent-titre">{{ .Title }}</span>
+      {{ with .Description }}<span class="lp-recent-desc">{{ . }}</span>{{ end }}
+    </a>
+    {{ end }}
+    <a class="lp-recents-tous" href="{{ "/articles/" | relLangURL }}">{{ if eq site.Language.Lang "en" }}All articles →{{ else }}Tous les articles →{{ end }}</a>
+  </section>
+  {{ end }}
 
 </section>
 {{ end }}

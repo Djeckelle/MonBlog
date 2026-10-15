@@ -4,6 +4,7 @@ date: 2026-07-31
 description: "Architecte cloud, architecte IA : accoler un titre à une technologie dilue la fonction d'architecte. La loi de Conway appliquée aux fiches de poste et à l'organisation."
 tags: ["loi de Conway", "rôle de l'architecte", "organisation du travail", "Continuous Architecture"]
 draft: false
+translationKey: "conway-titres-rh"
 categories: ["Architecture"]
 
 cover:

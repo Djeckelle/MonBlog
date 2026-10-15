@@ -125,7 +125,7 @@ A strategic architect. Present continuously. Anchored in the real. Seated in the
 ### Related writing
 
 - *Nous venons du chaos, l'IA de la logique* — Laurence Poussard, 2025 (in French). [Available on Amazon](https://amzn.eu/d/07jFAfN9)
-- *Continuous Architecture Facing the Unpredictable (2026)* — strategic analysis dossier (in French). [Consult the dossier](/dossiers/architecture-continue-polycrise-2026.html)
+- *Continuous Architecture Facing the Unpredictable (2026)* — strategic analysis dossier. [Consult the dossier](/en/resources/continuous-architecture-dossier-2026/)
 - *The 6 habits of an effective IS* — manifesto. [Read the manifesto](/en/manifesto/)
 
 ---

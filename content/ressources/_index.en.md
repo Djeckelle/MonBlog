@@ -1,13 +1,14 @@
 ---
-title: "Compass"
-description: "My in-depth work — the book, the analytical dossiers, and the library of sources that feed my thinking on architecture, AI, and sovereignty."
-url: "/en/compass/"
+title: "Resources"
+description: "My in-depth work — the book, the manifesto, the analytical dossiers and the library of sources that feed my thinking on architecture, AI and sovereignty."
+url: "/en/resources/"
+aliases: ["/en/compass/"]
 hidemeta: true
 ---
 
 Articles catch the news on the fly. This is something else: the substance, the long view, the work that asks you to linger.
 
-On this page you'll find my most structured thinking — the book, the analytical dossiers — and the library of sources I lean on. These are not truths to receive, but bearings to discuss, to challenge, to extend with you.
+On this page you'll find my most structured thinking — the book, the manifesto, the analytical dossiers — and the library of sources I lean on. These are not truths to receive, but bearings to discuss, to challenge, to extend with you.
 
 ---
 
@@ -18,6 +19,16 @@ On this page you'll find my most structured thinking — the book, the analytica
 AI is neither the devil nor the messiah. It's a lever of massive influence — economic, political, cognitive — in the hands of those who build it and set its rules. My book (in French) defends a stance, neither doomer nor boomer, and a conviction: to move beyond apocalyptic and messianic discourse and give back the power to decide to those to whom it belongs.
 
 [Discover the book on Amazon →](https://amzn.eu/d/07jFAfN9)
+
+---
+
+## The manifesto
+
+### *The 6 Habits of Effective Enterprise IT*
+
+Six habits to hold at your own level, in your role, within your constraints. A text to reuse, share, sign — or challenge.
+
+[Read the manifesto →](/en/manifesto/) · [Download the PDF](/pdfs/manifeste-si-efficace-en.pdf)
 
 ---
 
