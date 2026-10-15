@@ -5,6 +5,7 @@ defaultContentLanguageInSubdir = false
 enableRobotsTXT = true
 buildDrafts = false
 buildFuture = false
+capitalizeListTitles = false
 
 # SEO : retire les accents des URL générées (tags notamment)
 # « souveraineté » → /tags/souverainete/ au lieu de /tags/souverainet%C3%A9/
