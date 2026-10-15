@@ -31,7 +31,7 @@ Ce dossier explore ce que les architectures traditionnelles ne voient pas, propo
 
 Un format long, dense, à lire quand on a le temps de penser.
 
-[Lire le dossier →](/dossiers/architecture-continue-polycrise-2026.html)
+[Découvrir le dossier →](/ressources/dossier-architecture-continue-2026/)
 
 *En amorce de ce dossier, un article plus court : [L'architecte stratège du réel](/articles/2026-03-15-architecte-stratege-du-reel/).*
 

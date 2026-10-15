@@ -1,7 +1,12 @@
 ---
 title: "Dossier — L'Architecture Continue face à l'imprévisible (2026)"
 date: 2026-03-15
-description: "Dossier d'analyse stratégique sur la transformation du rôle de l'architecte d'entreprise en contexte de polycrise. Format long, ~15 min de lecture."
+description: "Dossier d'analyse : quand la géopolitique devient une variable d'architecture. Ce que la polycrise change pour l'architecte d'entreprise, la DSI et le CODIR."
+cover:
+    image: "/images/resources/og-dossier-architecture-continue.jpg"
+    alt: "L'Architecture Continue face à l'imprévisible, dossier 2026"
+    relative: false
+    hidden: true
 ---
 
 *Dossier d'analyse stratégique · Mars 2026*
@@ -46,7 +51,7 @@ Ce dossier est librement consultable et partageable. Pour le citer, merci de ré
 
 > Laurence Poussard, *L'Architecture Continue face à l'imprévisible : 2026*, mars 2026, laurence-poussard.com
 
-Pour me contacter à propos de ce dossier — réactions, propositions de cas concrets, demandes d'intervention en CODIR ou en formation — écrivez-moi à [contact@laurence-poussard.com](mailto:contact@laurence-poussard.com).
+Pour me contacter à propos de ce dossier — réactions, propositions de cas concrets, demandes d'intervention en CODIR ou en formation — écrivez-moi à [laurence.poussard63@gmail.com](mailto:laurence.poussard63@gmail.com).
 
 ---
 
